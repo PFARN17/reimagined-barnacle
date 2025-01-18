@@ -127,9 +127,21 @@
     },
     "done": true
   },
+  "morebows:recipes/iron_bow": {
+    "criteria": {
+      "has_bow": "2025-01-18 20:19:33 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-01-18 19:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-18 20:15:37 +0000"
     },
     "done": true
   },
@@ -193,9 +205,27 @@
     },
     "done": true
   },
+  "1_splatus:ultris/technical/used_shield": {
+    "criteria": {
+      "requirement": "2025-01-18 20:12:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-01-18 19:53:12 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/dark_oak_wood_slab": {
+    "criteria": {
+      "has_dark_oak_wood": "2025-01-18 20:21:15 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/stone_bow": {
+    "criteria": {
+      "has_bow": "2025-01-18 20:19:33 +0000"
     },
     "done": true
   },
@@ -249,6 +279,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-18 20:15:37 +0000",
+      "minecraft:vindicator": "2025-01-18 20:21:21 +0000",
       "minecraft:zombie": "2025-01-18 19:57:53 +0000",
       "minecraft:zombie_villager": "2025-01-18 19:44:41 +0000"
     },
@@ -311,6 +343,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:10:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-01-18 20:17:21 +0000"
     },
     "done": true
   },
@@ -584,9 +622,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-18 20:15:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-01-18 19:53:11 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/gold_bow": {
+    "criteria": {
+      "has_bow": "2025-01-18 20:19:33 +0000"
     },
     "done": true
   },
@@ -599,6 +649,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-01-18 19:53:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-01-18 20:15:38 +0000"
     },
     "done": true
   },
@@ -623,6 +679,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-18 19:48:22 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/diamond_bow": {
+    "criteria": {
+      "has_bow": "2025-01-18 20:19:33 +0000"
     },
     "done": true
   },
@@ -683,6 +745,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-01-18 19:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-18 20:21:15 +0000"
     },
     "done": true
   },
@@ -814,6 +882,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-01-18 20:14:52 +0000",
+      "apple": "2025-01-18 20:20:18 +0000",
       "bread": "2025-01-18 19:59:22 +0000",
       "rotten_flesh": "2025-01-18 19:44:46 +0000"
     },

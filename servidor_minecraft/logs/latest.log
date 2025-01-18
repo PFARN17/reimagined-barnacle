@@ -1108,3 +1108,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20:15:59] [Server thread/INFO]: PFARN was slain by Zombie Villager
 [20:16:01] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
 [20:16:13] [Server thread/INFO]: Vick_Pop778 was shot by Pillager
+[20:16:15] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
+[20:16:46] [Server thread/INFO]: Vick_Pop778 has made the advancement [Ol' Betsy]
+[20:16:46] [Server thread/INFO]: Vick_Pop778 has made the advancement [Take Aim]
+[20:21:39] [Server thread/INFO]: PFARN was shot by Pillager
+[20:21:43] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
+[20:22:35] [Server thread/INFO]: Vick_Pop778 has made the advancement [Who's the Pillager Now?]

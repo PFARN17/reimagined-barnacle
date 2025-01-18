@@ -742,9 +742,21 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/dark_oak_wood_slab": {
+    "criteria": {
+      "has_dark_oak_wood": "2025-01-18 20:21:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-18 19:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-18 20:16:46 +0000"
     },
     "done": true
   },
@@ -903,6 +915,12 @@
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2025-01-18 19:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-18 20:16:46 +0000"
     },
     "done": true
   },
@@ -1416,6 +1434,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-18 20:15:36 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-01-18 19:46:46 +0000"
@@ -1455,6 +1479,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-01-18 20:03:29 +0000",
+      "baked_potato": "2025-01-18 20:15:16 +0000",
       "apple": "2025-01-18 19:37:48 +0000",
       "potato": "2025-01-18 19:38:56 +0000",
       "bread": "2025-01-18 19:39:02 +0000"
@@ -1467,6 +1492,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-01-18 20:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-01-18 19:40:32 +0000"
@@ -1476,6 +1507,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-01-18 19:38:11 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-18 20:15:36 +0000"
     },
     "done": true
   },
