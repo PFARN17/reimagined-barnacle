@@ -1230,3 +1230,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21:35:33] [Server thread/INFO]: Shikyum has made the advancement [Disme A Dozen]
 [21:35:54] [Server thread/INFO]: Shikyum has made the advancement [Suit Up]
 [21:36:26] [Server thread/INFO]: Villager class_1646['Leatherworker'/178, l='ServerLevel[world]', x=187.47, y=64.00, z=103.56] died, message: 'Leatherworker hit the ground too hard'
+[21:38:07] [Server thread/INFO]: Vick_Pop778 has made the advancement [Who You Gonna Call?]
+[21:39:23] [Server thread/INFO]: PFARN has made the advancement [Who You Gonna Call?]
+[21:40:45] [Server thread/INFO]: Villager class_1646['Shepherd'/125, l='ServerLevel[world]', x=226.59, y=65.00, z=89.80] died, message: 'Shepherd was slain by Orc'
+[21:41:53] [Server thread/INFO]: PFARN has made the advancement [What a Deal!]
+[21:44:55] [Server thread/INFO]: PFARN was slain by Zombie Villager
+[21:44:57] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
+[21:46:41] [Server thread/INFO]: PFARN was slain by Zombie Villager
+[21:46:43] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
