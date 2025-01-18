@@ -1599,3 +1599,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22:38:37] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [22:45:56] [Server thread/INFO]: Vick_Pop778 has made the advancement [Stay dead]
 [22:46:18] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-792, y=-29, z=417}
+[22:49:20] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-418, y=-24, z=735}
+[22:52:37] [Worker-Main-19/ERROR]: Detected setBlock in a far chunk [-51, 47], pos: class_2339{x=-816, y=8, z=757}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[22:52:37] [Worker-Main-19/ERROR]: Detected setBlock in a far chunk [-51, 47], pos: class_2339{x=-816, y=9, z=757}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[22:52:37] [Worker-Main-19/ERROR]: Detected setBlock in a far chunk [-51, 47], pos: class_2339{x=-816, y=8, z=759}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[22:52:37] [Worker-Main-19/ERROR]: Detected setBlock in a far chunk [-51, 47], pos: class_2339{x=-816, y=9, z=759}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[22:53:36] [Server thread/INFO]: PFARN drowned whilst trying to escape Ice Dragon
+[22:53:41] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
+[22:53:42] [Server thread/INFO]: Vick_Pop778 suffocated in a wall
+[22:53:42] [Server thread/INFO]: Created new backpack backup file for Vick_Pop778 with unique ID travelersbackpack.standard_18.01.2025-22.53.42.dat
+[22:53:42] [Server thread/INFO]: Your backpack has been placed at X: -770 Y: 48 Z: 724
+[22:53:44] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
+[22:57:07] [Server thread/INFO]: Vick_Pop778 fell from a high place
+[22:57:09] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
+[22:57:56] [Server thread/INFO]: Vick_Pop778 drowned
+[22:57:58] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
+[22:58:01] [Server thread/INFO]: Vick_Pop778 lost connection: Disconnected
+[22:58:01] [Server thread/INFO]: Vick_Pop778 left the game
+[22:58:01] [Server thread/INFO]: [voicechat] Disconnecting client Vick_Pop778
