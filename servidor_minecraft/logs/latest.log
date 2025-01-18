@@ -1114,3 +1114,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20:21:39] [Server thread/INFO]: PFARN was shot by Pillager
 [20:21:43] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
 [20:22:35] [Server thread/INFO]: Vick_Pop778 has made the advancement [Who's the Pillager Now?]
+[20:27:15] [Server thread/INFO]: Vick_Pop778 has made the advancement [Suit Up]
+[20:29:00] [Server thread/INFO]: PFARN has made the advancement [Diamonds!]
+[20:32:06] [Server thread/INFO]: Shikyum[/10.147.19.46:60570] logged in with entity id 16088 at (67.5, 67.0, 0.5)
+[20:32:06] [Server thread/INFO]: Loading config from file...
+[20:32:07] [Server thread/INFO]: Syncing beansbackpacks data to "Shikyum"
+[20:32:07] [Server thread/INFO]: Shikyum joined the game
+[20:32:07] [Server thread/INFO]: Shikyum has made the advancement [Ice and Fire]
+[20:32:41] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Shikyum accepted server config.
+[20:32:53] [Server thread/INFO]: [voicechat] Received secret request of Shikyum (18)
+[20:32:53] [Server thread/INFO]: [voicechat] Sent secret to Shikyum
+[20:33:06] [Server thread/INFO]: Shikyum lost connection: Disconnected
+[20:33:06] [Server thread/INFO]: Shikyum left the game
+[20:33:06] [Server thread/INFO]: [voicechat] Disconnecting client Shikyum
+[20:36:06] [Server thread/INFO]: Shikyum[/10.147.19.46:61043] logged in with entity id 17181 at (67.5, 67.0, 0.5)
+[20:36:06] [Server thread/INFO]: Loading config from file...
+[20:36:07] [Server thread/INFO]: Syncing beansbackpacks data to "Shikyum"
+[20:36:07] [Server thread/INFO]: Shikyum joined the game
+[20:36:14] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Shikyum accepted server config.
+[20:36:14] [Server thread/INFO]: [voicechat] Received secret request of Shikyum (18)
+[20:36:14] [Server thread/INFO]: [voicechat] Sent secret to Shikyum
