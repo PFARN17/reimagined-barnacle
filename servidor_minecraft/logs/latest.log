@@ -1432,3 +1432,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22:07:06] [Worker-Main-19/WARN]: Tried to access a block entity before it was created. class_2338{x=33, y=-1, z=1156}
 [22:14:15] [Server thread/INFO]: Shikyum has made the advancement [The Lighthouse]
 [22:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3716ms or 74 ticks behind
+[22:20:20] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=1169, y=-27, z=822}
+[22:20:27] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=1180, y=-31, z=806}
+[22:20:27] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=1180, y=-31, z=800}
+[22:21:13] [Server thread/INFO]: Vick_Pop778 has made the advancement [Super Creeps]
+[22:22:00] [Server thread/INFO]: PFARN has made the advancement [Super Creeps]
+[22:24:59] [Server thread/INFO]: PFARN has made the advancement [Ol' Betsy]
+[22:24:59] [Server thread/INFO]: PFARN has made the advancement [Take Aim]
+[22:25:57] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/54739, l='ServerLevel[world]', x=1031.78, y=115.01, z=1043.29] died: Dinnerbone was shot by Dinnerbone
+[22:26:16] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/54740, l='ServerLevel[world]', x=1023.63, y=115.01, z=1035.94] died: Dinnerbone was shot by PFARN
+[22:26:38] [Server thread/INFO]: PFARN was slain by Wither Skeleton
+[22:26:43] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
