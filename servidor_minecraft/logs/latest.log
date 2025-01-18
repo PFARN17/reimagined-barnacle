@@ -1087,3 +1087,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19:44:41] [Server thread/INFO]: PFARN has made the advancement [Monster Hunter]
 [19:45:21] [Server thread/INFO]: Vick_Pop778 has made the advancement [Sweet Dreams]
 [19:45:23] [Server thread/INFO]: PFARN has made the advancement [Sweet Dreams]
+[19:46:49] [Server thread/INFO]: Vick_Pop778 has made the advancement [Barrel Booty]
+[19:46:49] [Server thread/INFO]: Vick_Pop778 has made the advancement [Disme A Dozen]
+[19:47:42] [Server thread/INFO]: PFARN was slain by Zombie Villager
+[19:47:43] [Server thread/INFO]: Vick_Pop778 was slain by Zombie Villager
+[19:47:44] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
+[19:47:44] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
+[19:48:03] [Server thread/INFO]: PFARN has made the advancement [Cobweb Entanglement]
+[19:48:03] [Server thread/INFO]: PFARN has made the advancement [All Along The Watchtower]
+[19:54:20] [Server thread/INFO]: PFARN has made the advancement [Isn't It Iron Pick]
+[19:54:27] [Server thread/INFO]: PFARN has made the advancement [Stone Age]
