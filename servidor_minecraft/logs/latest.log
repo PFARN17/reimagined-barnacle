@@ -1134,3 +1134,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20:36:14] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Shikyum accepted server config.
 [20:36:14] [Server thread/INFO]: [voicechat] Received secret request of Shikyum (18)
 [20:36:14] [Server thread/INFO]: [voicechat] Sent secret to Shikyum
+[20:37:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1b90ed1b-962e-3777-bf16-d0ba97501e47
+[20:37:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1b90ed1b-962e-3777-bf16-d0ba97501e47
+[20:37:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Shikyum (1b90ed1b-962e-3777-bf16-d0ba97501e47) successfully connected to voice chat
+[20:37:45] [Server thread/INFO]: Vick_Pop778 has made the advancement [Close Quarters]
+[20:37:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1b90ed1b-962e-3777-bf16-d0ba97501e47 timed out
+[20:37:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Shikyum
+[20:37:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Shikyum
+[20:38:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1b90ed1b-962e-3777-bf16-d0ba97501e47
+[20:38:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1b90ed1b-962e-3777-bf16-d0ba97501e47
+[20:38:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Shikyum (1b90ed1b-962e-3777-bf16-d0ba97501e47) successfully connected to voice chat
+[20:38:36] [Server thread/INFO]: Shikyum lost connection: Disconnected
+[20:38:36] [Server thread/INFO]: Shikyum left the game
+[20:38:36] [Server thread/INFO]: [voicechat] Disconnecting client Shikyum
+[20:39:04] [Server thread/INFO]: Vick_Pop778 was killed by Witch using magic
+[20:39:05] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
+[20:41:40] [Server thread/INFO]: Vick_Pop778 has made the advancement [Getting an Upgrade]
+[20:43:06] [Server thread/INFO]: Vick_Pop778 has made the advancement [What a Deal!]

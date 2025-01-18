@@ -311,6 +311,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-18 20:15:37 +0000",
       "minecraft:vindicator": "2025-01-18 20:21:21 +0000",
+      "minecraft:spider": "2025-01-18 20:31:43 +0000",
       "minecraft:zombie": "2025-01-18 19:57:53 +0000",
       "minecraft:zombie_villager": "2025-01-18 19:44:41 +0000"
     },
@@ -319,6 +320,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-18 20:31:44 +0000"
     },
     "done": true
   },
@@ -331,6 +338,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-01-18 19:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-18 20:31:44 +0000"
     },
     "done": true
   },
@@ -694,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-18 20:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:10:03 +0000"
@@ -730,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-18 20:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-01-18 20:15:38 +0000"
@@ -763,6 +788,12 @@
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-01-18 20:15:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-01-18 20:31:44 +0000"
     },
     "done": true
   },
@@ -988,6 +1019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-18 20:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:10:03 +0000"
@@ -1054,6 +1091,12 @@
   "another_furniture:recipes/furniture_hammer": {
     "criteria": {
       "has_stick": "2025-01-18 19:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-18 20:31:44 +0000"
     },
     "done": true
   },
