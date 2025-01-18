@@ -1175,3 +1175,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20:56:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1b90ed1b-962e-3777-bf16-d0ba97501e47
 [20:56:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1b90ed1b-962e-3777-bf16-d0ba97501e47
 [20:56:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Shikyum (1b90ed1b-962e-3777-bf16-d0ba97501e47) successfully connected to voice chat
+[20:57:53] [Server thread/INFO]: PFARN was blown up by Creeper
+[20:57:55] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
+[20:58:36] [Server thread/INFO]: Shikyum was slain by Spider
+[20:58:38] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Shikyum accepted server config.
+[20:59:17] [Server thread/INFO]: Shikyum was shot by Skeleton
+[20:59:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1b90ed1b-962e-3777-bf16-d0ba97501e47 timed out
+[20:59:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Shikyum
+[20:59:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Shikyum
+[20:59:26] [Server thread/INFO]: Shikyum lost connection: Disconnected
+[20:59:26] [Server thread/INFO]: Shikyum left the game
+[20:59:26] [Server thread/INFO]: [voicechat] Disconnecting client Shikyum
+[21:00:33] [Server thread/INFO]: Vick_Pop778 has made the advancement [Corrupted]
+[21:00:33] [Server thread/INFO]: PFARN has made the advancement [Corrupted]
