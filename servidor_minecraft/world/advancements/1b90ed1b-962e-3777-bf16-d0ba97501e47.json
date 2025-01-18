@@ -289,6 +289,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/illusioner2": {
+    "criteria": {
+      "c1": "2025-01-18 22:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-18 21:24:26 +0000"
@@ -337,6 +343,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2025-01-18 22:33:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-01-18 21:28:37 +0000"
@@ -366,6 +378,12 @@
       "in_water": "2025-01-18 21:18:50 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-01-18 22:34:51 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -1511,6 +1529,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-01-18 21:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-01-18 22:34:51 +0000"
     },
     "done": true
   },
