@@ -1100,3 +1100,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19:57:19] [Server thread/INFO]: PFARN has made the advancement [Getting an Upgrade]
 [20:01:42] [Server thread/INFO]: Vick_Pop778 was slain by Zombie Villager
 [20:01:44] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
+[20:10:03] [Server thread/INFO]: PFARN has made the advancement [Acquire Hardware]
+[20:13:13] [Server thread/INFO]: Villager class_1646['Armorer'/84, l='ServerLevel[world]', x=138.47, y=66.75, z=72.73] died, message: 'Armorer was shot by Pillager'
+[20:15:35] [Server thread/INFO]: Vick_Pop778 has made the advancement [All Along The Watchtower]
+[20:15:36] [Server thread/INFO]: Vick_Pop778 has made the advancement [Cobweb Entanglement]
+[20:15:37] [Server thread/INFO]: PFARN has made the advancement [Not Today, Thank You]
+[20:15:59] [Server thread/INFO]: PFARN was slain by Zombie Villager
+[20:16:01] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
+[20:16:13] [Server thread/INFO]: Vick_Pop778 was shot by Pillager

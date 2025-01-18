@@ -85,6 +85,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-01-18 20:05:16 +0000",
       "minecraft:river": "2025-01-18 19:33:20 +0000",
       "minecraft:forest": "2025-01-18 19:54:47 +0000",
       "minecraft:meadow": "2025-01-18 20:00:12 +0000",
@@ -633,6 +634,12 @@
     },
     "done": true
   },
+  "morebows:recipes/iron_bow": {
+    "criteria": {
+      "has_bow": "2025-01-18 20:07:17 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-01-18 19:37:25 +0000"
@@ -741,6 +748,12 @@
     },
     "done": true
   },
+  "morebows:recipes/stone_bow": {
+    "criteria": {
+      "has_bow": "2025-01-18 20:07:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-01-18 19:38:03 +0000"
@@ -800,6 +813,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-01-18 19:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-18 20:09:53 +0000"
     },
     "done": true
   },
@@ -986,6 +1005,12 @@
   "beansbackpacks:recipes/gold_backpack": {
     "criteria": {
       "has_gold": "2025-01-18 19:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-18 20:09:53 +0000"
     },
     "done": true
   },
@@ -1205,6 +1230,12 @@
     },
     "done": true
   },
+  "morebows:recipes/gold_bow": {
+    "criteria": {
+      "has_bow": "2025-01-18 20:07:17 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-01-18 19:37:43 +0000"
@@ -1223,9 +1254,21 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/stripped_dark_oak_log_slab": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-01-18 20:09:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-18 19:37:25 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/diamond_bow": {
+    "criteria": {
+      "has_bow": "2025-01-18 20:07:17 +0000"
     },
     "done": true
   },
@@ -1286,6 +1329,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-18 19:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-18 20:09:53 +0000"
     },
     "done": true
   },
@@ -1405,6 +1454,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-01-18 20:03:29 +0000",
       "apple": "2025-01-18 19:37:48 +0000",
       "potato": "2025-01-18 19:38:56 +0000",
       "bread": "2025-01-18 19:39:02 +0000"
