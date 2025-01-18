@@ -1188,3 +1188,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20:59:26] [Server thread/INFO]: [voicechat] Disconnecting client Shikyum
 [21:00:33] [Server thread/INFO]: Vick_Pop778 has made the advancement [Corrupted]
 [21:00:33] [Server thread/INFO]: PFARN has made the advancement [Corrupted]
+[21:11:47] [Server thread/INFO]: Shikyum[/10.147.19.46:65193] logged in with entity id 26522 at (95.30000001192093, 65.0, 47.612082513895814)
+[21:11:47] [Server thread/INFO]: Loading config from file...
+[21:11:47] [Server thread/INFO]: Syncing beansbackpacks data to "Shikyum"
+[21:11:47] [Server thread/INFO]: Shikyum joined the game
+[21:12:01] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Shikyum accepted server config.
+[21:12:02] [Server thread/INFO]: [voicechat] Received secret request of Shikyum (18)
+[21:12:02] [Server thread/INFO]: [voicechat] Sent secret to Shikyum
+[21:12:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1b90ed1b-962e-3777-bf16-d0ba97501e47
+[21:12:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1b90ed1b-962e-3777-bf16-d0ba97501e47
+[21:12:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Shikyum (1b90ed1b-962e-3777-bf16-d0ba97501e47) successfully connected to voice chat
+[21:13:16] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Shikyum accepted server config.
+[21:13:24] [Worker-Main-11/WARN]: Empty height range: [0 absolute--16 absolute]
+[21:14:49] [Server thread/INFO]: Vick_Pop778 lost connection: Disconnected
+[21:14:49] [Server thread/INFO]: Vick_Pop778 left the game
+[21:14:49] [Server thread/INFO]: [voicechat] Disconnecting client Vick_Pop778
+[21:14:55] [Server thread/INFO]: Shikyum has made the advancement [Sweet Dreams]
+[21:15:53] [Server thread/INFO]: Shikyum has made the advancement [Stone Age]
+[21:16:09] [Server thread/INFO]: Shikyum has made the advancement ['X' Marks the Spot]
