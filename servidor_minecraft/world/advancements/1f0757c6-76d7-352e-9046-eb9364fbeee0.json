@@ -157,6 +157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 21:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-01-18 19:53:11 +0000"
@@ -166,6 +172,12 @@
   "comforts:rope_and_nail": {
     "criteria": {
       "has_iron": "2025-01-18 20:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 21:19:48 +0000"
     },
     "done": true
   },
@@ -199,9 +211,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 21:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 21:19:48 +0000"
     },
     "done": true
   },
@@ -235,6 +259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 21:19:48 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2025-01-18 19:48:22 +0000"
@@ -244,6 +274,12 @@
   "1_splatus:ultris/technical/used_shield": {
     "criteria": {
       "requirement": "2025-01-18 20:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 21:19:48 +0000"
     },
     "done": true
   },
@@ -348,6 +384,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 21:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-18 20:50:24 +0000"
@@ -357,6 +399,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:10:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 21:19:48 +0000"
     },
     "done": true
   },
@@ -429,6 +477,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-01-18 20:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 21:19:48 +0000"
     },
     "done": true
   },
@@ -630,6 +684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 21:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-01-18 19:53:12 +0000"
@@ -666,6 +726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 21:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-01-18 19:48:22 +0000"
@@ -687,6 +753,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-01-18 20:28:52 +0000"
+    },
+    "done": true
+  },
+  "beansbackpacks:recipes/gold_backpack": {
+    "criteria": {
+      "has_gold": "2025-01-18 21:19:48 +0000"
     },
     "done": true
   },
@@ -816,6 +888,12 @@
     },
     "done": true
   },
+  "genshinstrument:recipes/nightwind_horn": {
+    "criteria": {
+      "has_main": "2025-01-18 21:19:48 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/hay": {
     "criteria": {
       "has_wheat": "2025-01-18 20:48:00 +0000"
@@ -863,6 +941,12 @@
       "has_iron_pickaxe": "2025-01-18 19:54:20 +0000"
     },
     "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-01-18 21:19:27 +0000"
+    },
+    "done": false
   },
   "minecraft:story/iron_tools": {
     "criteria": {
@@ -951,6 +1035,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-18 20:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 21:19:48 +0000"
     },
     "done": true
   },
@@ -1284,6 +1374,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-01-18 21:19:41 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/purple_lamp": {
     "criteria": {
       "has_wool": "2025-01-18 20:48:09 +0000"
@@ -1392,6 +1488,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 21:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-01-18 20:47:26 +0000"
@@ -1419,6 +1521,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-01-18 20:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 21:19:48 +0000"
     },
     "done": true
   },
@@ -1518,6 +1626,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-18 19:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-18 21:19:48 +0000"
     },
     "done": true
   },
