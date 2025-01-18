@@ -1617,3 +1617,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22:58:01] [Server thread/INFO]: Vick_Pop778 lost connection: Disconnected
 [22:58:01] [Server thread/INFO]: Vick_Pop778 left the game
 [22:58:01] [Server thread/INFO]: [voicechat] Disconnecting client Vick_Pop778
+[22:59:15] [Server thread/INFO]: Shikyum lost connection: Disconnected
+[22:59:15] [Server thread/INFO]: Shikyum left the game
+[22:59:15] [Server thread/INFO]: [voicechat] Disconnecting client Shikyum
+[23:00:42] [Server thread/INFO]: PFARN lost connection: Disconnected
+[23:00:42] [Server thread/INFO]: PFARN left the game
+[23:00:42] [Server thread/INFO]: [voicechat] Disconnecting client PFARN
