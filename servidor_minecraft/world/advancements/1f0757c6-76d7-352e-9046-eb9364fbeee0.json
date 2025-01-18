@@ -139,6 +139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-01-18 20:48:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-01-18 20:15:37 +0000"
@@ -217,6 +223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-01-18 20:47:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-01-18 20:28:52 +0000"
@@ -241,9 +253,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-01-18 20:51:13 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/dark_oak_wood_slab": {
     "criteria": {
       "has_dark_oak_wood": "2025-01-18 20:21:15 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_stool": {
+    "criteria": {
+      "has_wool": "2025-01-18 20:48:09 +0000"
     },
     "done": true
   },
@@ -274,6 +298,12 @@
   "another_furniture:recipes/dark_oak_drawer": {
     "criteria": {
       "has_planks": "2025-01-18 19:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-18 20:47:34 +0000"
     },
     "done": true
   },
@@ -317,9 +347,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-18 20:50:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:10:03 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_table": {
+    "criteria": {
+      "has_planks": "2025-01-18 20:47:25 +0000"
     },
     "done": true
   },
@@ -341,15 +383,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-01-18 20:48:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-01-18 20:31:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-18 20:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-18 20:48:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-01-18 20:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-18 20:47:25 +0000"
     },
     "done": true
   },
@@ -365,9 +431,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-18 20:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-18 20:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-01-18 20:28:52 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shelf": {
+    "criteria": {
+      "has_planks": "2025-01-18 20:47:25 +0000"
     },
     "done": true
   },
@@ -377,9 +461,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-18 20:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-01-18 20:47:25 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-01-18 20:29:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_purple_wool": "2025-01-18 20:48:09 +0000"
     },
     "done": true
   },
@@ -392,6 +494,12 @@
   "travelersbackpack:recipes/misc/iron": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-18 20:48:12 +0000"
     },
     "done": true
   },
@@ -413,9 +521,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-18 20:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-18 20:47:25 +0000"
     },
     "done": true
   },
@@ -461,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-18 20:47:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:10:03 +0000"
@@ -479,9 +605,21 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_purple_wool": "2025-01-18 20:48:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-01-18 19:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-18 20:47:26 +0000"
     },
     "done": true
   },
@@ -494,6 +632,12 @@
   "another_furniture:recipes/cherry_drawer": {
     "criteria": {
       "has_planks": "2025-01-18 19:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-18 20:47:34 +0000"
     },
     "done": true
   },
@@ -530,6 +674,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-01-18 20:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-18 20:50:24 +0000"
     },
     "done": true
   },
@@ -581,9 +731,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-18 20:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-18 20:51:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-18 19:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-18 20:51:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_curtain": {
+    "criteria": {
+      "has_wool": "2025-01-18 20:48:09 +0000"
     },
     "done": true
   },
@@ -611,6 +785,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/redstone_lamp_slab": {
+    "criteria": {
+      "has_redstone_lamp": "2025-01-18 20:47:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-01-18 19:48:22 +0000"
@@ -620,6 +800,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:10:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-01-18 20:48:00 +0000"
     },
     "done": true
   },
@@ -644,6 +830,12 @@
   "travelersbackpack:recipes/misc/coal": {
     "criteria": {
       "has_coal": "2025-01-18 19:58:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-01-18 20:50:38 +0000"
     },
     "done": true
   },
@@ -737,9 +929,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-18 20:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-18 20:48:09 +0000"
+    },
+    "done": true
+  },
   "genshinstrument:recipes/windsong_lyre": {
     "criteria": {
       "has_main": "2025-01-18 19:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-18 20:47:33 +0000"
     },
     "done": true
   },
@@ -767,6 +977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-18 20:47:33 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/gold_bow": {
     "criteria": {
       "has_bow": "2025-01-18 20:19:33 +0000"
@@ -785,6 +1001,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/purple_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-18 20:48:09 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-01-18 20:15:38 +0000"
@@ -794,6 +1016,12 @@
   "travelersbackpack:recipes/misc/spider": {
     "criteria": {
       "has_string": "2025-01-18 20:31:44 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/purple_wool_slab": {
+    "criteria": {
+      "has_purple_wool": "2025-01-18 20:48:09 +0000"
     },
     "done": true
   },
@@ -812,6 +1040,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:10:03 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/stripped_dark_oak_log_slab": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2025-01-18 20:50:24 +0000"
     },
     "done": true
   },
@@ -845,9 +1079,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-01-18 20:48:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-01-18 19:48:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-01-18 20:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-18 20:47:33 +0000"
     },
     "done": true
   },
@@ -857,9 +1109,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-18 20:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-01-18 19:53:11 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-01-18 20:48:09 +0000"
     },
     "done": true
   },
@@ -905,9 +1169,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-01-18 20:47:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-01-18 20:47:33 +0000"
     },
     "done": true
   },
@@ -941,6 +1217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-18 20:45:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-01-18 20:05:11 +0000"
@@ -953,9 +1235,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-18 20:47:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2025-01-18 20:47:35 +0000"
+    },
+    "done": true
+  },
   "hangglider:recipes/tools/glider_framework": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-18 20:47:34 +0000"
     },
     "done": true
   },
@@ -968,6 +1268,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-18 19:53:12 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_lamp": {
+    "criteria": {
+      "has_wool": "2025-01-18 20:48:09 +0000"
     },
     "done": true
   },
@@ -995,15 +1301,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-01-18 20:47:33 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_table": {
     "criteria": {
       "has_planks": "2025-01-18 19:53:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-18 20:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-01-18 20:47:25 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/hay_block_slab": {
     "criteria": {
       "has_hay_block": "2025-01-18 20:28:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-18 20:47:25 +0000"
     },
     "done": true
   },
@@ -1031,6 +1361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-18 20:51:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-01-18 19:54:20 +0000"
@@ -1040,6 +1376,24 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie_villager": "2025-01-18 19:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-18 20:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-01-18 20:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-01-18 20:47:33 +0000"
     },
     "done": true
   },
@@ -1070,6 +1424,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-18 20:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-18 20:51:13 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_windmill": {
     "criteria": {
       "location0": "2025-01-18 19:48:03 +0000"
@@ -1079,6 +1445,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-01-18 19:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-18 20:47:25 +0000"
     },
     "done": true
   },
@@ -1100,6 +1472,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-01-18 20:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-01-18 20:29:00 +0000"
@@ -1115,6 +1493,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-01-18 20:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-18 20:48:12 +0000"
     },
     "done": true
   },

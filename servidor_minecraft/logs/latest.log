@@ -1151,3 +1151,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20:39:05] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
 [20:41:40] [Server thread/INFO]: Vick_Pop778 has made the advancement [Getting an Upgrade]
 [20:43:06] [Server thread/INFO]: Vick_Pop778 has made the advancement [What a Deal!]
+[20:48:44] [Server thread/INFO]: PFARN fell off a ladder
+[20:48:48] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
+[20:50:38] [Server thread/INFO]: PFARN has made the advancement [Suit Up]
+[20:51:39] [Server thread/INFO]: Vick_Pop778 has made the advancement [The Lighthouse]
+[20:52:55] [Server thread/INFO]: Shikyum[/10.147.19.46:62978] logged in with entity id 22594 at (67.5, 67.0, 0.5)
+[20:52:55] [Server thread/INFO]: Loading config from file...
+[20:52:55] [Server thread/INFO]: Syncing beansbackpacks data to "Shikyum"
+[20:52:55] [Server thread/INFO]: Shikyum joined the game
+[20:53:08] [Server thread/INFO]: Vick_Pop778 fell from a high place
+[20:53:10] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
+[20:53:53] [Server thread/INFO]: Shikyum lost connection: Timed out
+[20:53:53] [Server thread/INFO]: Shikyum left the game
+[20:53:53] [Server thread/INFO]: [voicechat] Disconnecting client Shikyum
+[20:53:53] [Server thread/WARN]: handleDisconnection() called twice
+[20:55:21] [Server thread/INFO]: Shikyum[/10.147.19.46:63269] logged in with entity id 23206 at (67.5, 67.0, 0.5)
+[20:55:21] [Server thread/INFO]: Loading config from file...
+[20:55:21] [Server thread/INFO]: Syncing beansbackpacks data to "Shikyum"
+[20:55:21] [Server thread/INFO]: Shikyum joined the game
+[20:55:25] [Server thread/INFO]: [voicechat] Received secret request of Shikyum (18)
+[20:55:25] [Server thread/INFO]: [voicechat] Sent secret to Shikyum
+[20:55:25] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Shikyum accepted server config.
+[20:56:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1b90ed1b-962e-3777-bf16-d0ba97501e47
+[20:56:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1b90ed1b-962e-3777-bf16-d0ba97501e47
+[20:56:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Shikyum (1b90ed1b-962e-3777-bf16-d0ba97501e47) successfully connected to voice chat
