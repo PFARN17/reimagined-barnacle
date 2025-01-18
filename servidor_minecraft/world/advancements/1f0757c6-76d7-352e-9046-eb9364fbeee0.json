@@ -87,6 +87,7 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-01-18 19:58:56 +0000",
       "minecraft:river": "2025-01-18 19:32:44 +0000",
+      "minecraft:meadow": "2025-01-18 21:35:28 +0000",
       "minecraft:plains": "2025-01-18 18:02:41 +0000"
     },
     "done": false
@@ -1311,6 +1312,12 @@
   "another_furniture:recipes/jungle_drawer": {
     "criteria": {
       "has_planks": "2025-01-18 19:53:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-01-18 21:29:54 +0000"
     },
     "done": true
   },
