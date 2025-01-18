@@ -1040,3 +1040,50 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19:33:24] [Server thread/INFO]: PFARN lost connection: Disconnected
 [19:33:24] [Server thread/INFO]: PFARN left the game
 [19:33:24] [Server thread/INFO]: [voicechat] Disconnecting client PFARN
+[19:35:31] [Server thread/INFO]: Vick_Pop778 has made the advancement [Isn't It Iron Pick]
+[19:36:15] [Server thread/INFO]: Vick_Pop778 lost connection: Disconnected
+[19:36:15] [Server thread/INFO]: Vick_Pop778 left the game
+[19:36:15] [Server thread/INFO]: [voicechat] Disconnecting client Vick_Pop778
+[19:36:17] [Server thread/INFO]: Vick_Pop778[/10.147.19.16:62076] logged in with entity id 1766 at (79.19164765747179, 68.0, 12.010114162415663)
+[19:36:18] [Server thread/INFO]: Loading config from file...
+[19:36:18] [Server thread/INFO]: Syncing beansbackpacks data to "Vick_Pop778"
+[19:36:18] [Server thread/INFO]: Vick_Pop778 joined the game
+[19:36:18] [Server thread/INFO]: [voicechat] Received secret request of Vick_Pop778 (18)
+[19:36:18] [Server thread/INFO]: [voicechat] Sent secret to Vick_Pop778
+[19:36:18] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
+[19:36:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1bea8d6c-3de2-343b-b882-bf8e9956b889
+[19:36:23] [Server thread/INFO]: Villager class_1646['Toolsmith'/123, l='ServerLevel[world]', x=159.36, y=72.00, z=57.66] died, message: 'Toolsmith was slain by Zombie Villager'
+[19:36:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1bea8d6c-3de2-343b-b882-bf8e9956b889
+[19:36:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Vick_Pop778 (1bea8d6c-3de2-343b-b882-bf8e9956b889) successfully connected to voice chat
+[19:36:25] [Server thread/INFO]: Villager class_1646['Toolsmith'/83, l='ServerLevel[world]', x=100.61, y=85.00, z=36.13] died, message: 'Toolsmith was slain by Zombie Villager'
+[19:36:59] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[19:36:59] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:36:59] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[19:36:59] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:36:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[19:36:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:36:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[19:36:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:37:24] [Server thread/INFO]: Vick_Pop778 has made the advancement [Monster Hunter]
+[19:37:57] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:37:57] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:38:11] [Server thread/INFO]: Vick_Pop778 has made the advancement [Stone Age]
+[19:38:40] [Server thread/INFO]: PFARN[/10.147.19.201:57957] logged in with entity id 2978 at (50.456378619995014, 65.0, -25.616047941782455)
+[19:38:40] [Server thread/INFO]: Loading config from file...
+[19:38:40] [Server thread/INFO]: Syncing beansbackpacks data to "PFARN"
+[19:38:40] [Server thread/INFO]: PFARN joined the game
+[19:38:43] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
+[19:38:43] [Server thread/INFO]: [voicechat] Received secret request of PFARN (18)
+[19:38:43] [Server thread/INFO]: [voicechat] Sent secret to PFARN
+[19:38:55] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:38:55] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:39:00] [Server thread/INFO]: Nothing changed. The player already is an operator
+[19:39:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1f0757c6-76d7-352e-9046-eb9364fbeee0
+[19:39:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1f0757c6-76d7-352e-9046-eb9364fbeee0
+[19:39:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PFARN (1f0757c6-76d7-352e-9046-eb9364fbeee0) successfully connected to voice chat
+[19:40:29] [Server thread/INFO]: Vick_Pop778 has made the advancement [Diamonds!]
+[19:40:32] [Server thread/INFO]: Vick_Pop778 has made the advancement [Ice Bucket Challenge]
+[19:43:29] [Server thread/INFO]: PFARN has made the advancement ['X' Marks the Spot]
+[19:44:41] [Server thread/INFO]: PFARN has made the advancement [Monster Hunter]
+[19:45:21] [Server thread/INFO]: Vick_Pop778 has made the advancement [Sweet Dreams]
+[19:45:23] [Server thread/INFO]: PFARN has made the advancement [Sweet Dreams]
