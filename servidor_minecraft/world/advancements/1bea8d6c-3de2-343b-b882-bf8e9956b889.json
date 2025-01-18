@@ -86,6 +86,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-01-18 20:05:16 +0000",
+      "minecraft:sunflower_plains": "2025-01-18 22:42:25 +0000",
       "minecraft:savanna_plateau": "2025-01-18 21:48:30 +0000",
       "minecraft:river": "2025-01-18 19:33:20 +0000",
       "minecraft:forest": "2025-01-18 19:54:47 +0000",
@@ -629,6 +630,7 @@
       "minecraft:pillager": "2025-01-18 19:49:15 +0000",
       "minecraft:skeleton": "2025-01-18 20:58:20 +0000",
       "minecraft:spider": "2025-01-18 20:58:04 +0000",
+      "minecraft:creeper": "2025-01-18 22:45:50 +0000",
       "minecraft:witch": "2025-01-18 20:23:48 +0000",
       "minecraft:wither_skeleton": "2025-01-18 22:25:05 +0000",
       "minecraft:cave_spider": "2025-01-18 22:24:18 +0000",
@@ -2407,6 +2409,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-01-18 22:45:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/gold_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-01-18 22:29:10 +0000"
@@ -2467,6 +2475,12 @@
     },
     "done": true
   },
+  "beansbackpacks:info/decorated_pots": {
+    "criteria": {
+      "has_the_recipe": "2025-01-18 22:45:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2025-01-18 21:36:40 +0000"
@@ -2482,6 +2496,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-01-18 22:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-18 22:45:31 +0000"
     },
     "done": true
   },
@@ -2502,6 +2522,12 @@
       "location0": "2025-01-18 22:16:09 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-01-18 22:45:31 +0000"
+    },
+    "done": false
   },
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
