@@ -86,9 +86,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-01-18 20:05:16 +0000",
+      "minecraft:savanna_plateau": "2025-01-18 21:48:30 +0000",
       "minecraft:river": "2025-01-18 19:33:20 +0000",
       "minecraft:forest": "2025-01-18 19:54:47 +0000",
       "minecraft:meadow": "2025-01-18 20:00:12 +0000",
+      "minecraft:savanna": "2025-01-18 21:47:10 +0000",
       "minecraft:plains": "2025-01-18 19:31:56 +0000"
     },
     "done": false
@@ -2355,6 +2357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-18 21:55:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2025-01-18 21:39:25 +0000"
@@ -2367,9 +2375,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-18 21:55:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-01-18 21:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-01-18 21:55:57 +0000"
     },
     "done": true
   },
