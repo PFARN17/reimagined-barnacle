@@ -1,9 +1,9 @@
-[19:25:14] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
-[19:25:15] [ForkJoinPool-1-worker-3/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+[03:00:22] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
+[03:00:22] [ForkJoinPool-1-worker-3/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 12 column 12
-[19:25:18] [ForkJoinPool-1-worker-1/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[19:25:19] [ForkJoinPool-1-worker-4/WARN]: Mod ultris_mr uses the version 5.6.9c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '9c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[19:25:22] [main/WARN]: Warnings were found!
+[03:00:23] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:00:23] [ForkJoinPool-1-worker-2/WARN]: Mod ultris_mr uses the version 5.6.9c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '9c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:00:23] [main/WARN]: Warnings were found!
  - Mod 'Exposure' (exposure) 1.7.7 recommends version 0.5.1-f or later of create, which is missing!
 	 - You should install version 0.5.1-f or later of create for the optimal experience.
  - Mod 'More Bows Restrung' (morebows) 1.0.11+1.20.x recommends version 7.0.0-beta.2 or later of modmenu, which is missing!
@@ -12,7 +12,7 @@
 	 - You should install version 1.1.3 or later of emi for the optimal experience.
  - Mod 'Simply Swords' (simplyswords) 1.56.0-1.20.1 recommends version 1.7.2 or later of bettercombat, which is missing!
 	 - You should install version 1.7.2 or later of bettercombat for the optimal experience.
-[19:25:22] [main/INFO]: Loading 277 mods:
+[03:00:23] [main/INFO]: Loading 277 mods:
 	- adventurez 1.4.20
 	- alternate-current 1.9.0
 	- animal_armor_trims 1.0.0
@@ -313,37 +313,37 @@
 	   \-- org_javassist_javassist 3.29.2-GA
 	- yungsbridges 1.20-Fabric-4.0.3
 	- yungsextras 1.20-Fabric-4.0.3
-[19:25:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/reimagined-barnacle/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:25:23] [main/INFO]: Compatibility level set to JAVA_17
-[19:25:23] [main/WARN]: Reference map 'automessage.refmap.json' for fabric-automessage.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:23] [main/WARN]: Reference map 'automessage.refmap.json' for fabric-automessage.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:23] [main/WARN]: Reference map 'connectedglass.mixins.refmap.json' for connectedglass.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:23] [main/WARN]: Reference map 'enderpack.refmap.json' for fabric-enderpack.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:23] [main/WARN]: Reference map 'enderpack.refmap.json' for fabric-enderpack.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:23] [main/WARN]: Reference map 'graveyard-FABRIC-fabric-refmap.json' for graveyard-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:23] [main/WARN]: Reference map 'JustEnoughResources-Fabric-1.20.1-refmap.json' for jeresources.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:23] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 1 override(s) found
-[19:25:24] [main/WARN]: Reference map 'more_beautiful_torches.refmap.json' for fabric-more_beautiful_torches.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:24] [main/WARN]: Reference map 'more_beautiful_torches.refmap.json' for fabric-more_beautiful_torches.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:24] [main/WARN]: Reference map 'mysticaloaktree-fabric-refmap.json' for mysticaloaktree.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:24] [main/WARN]: Reference map 'mysticaloaktree-common-refmap.json' for mysticaloaktree-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:24] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:24] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:24] [main/WARN]: Reference map 'timeondisplay.refmap.json' for fabric-timeondisplay.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:24] [main/WARN]: Reference map 'timeondisplay.refmap.json' for fabric-timeondisplay.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:24] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:24] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:25:25] [main/WARN]: Error loading class: net/minecraft/class_636 (java.lang.ClassNotFoundException: net/minecraft/class_636)
-[19:25:25] [main/WARN]: @Mixin target net.minecraft.class_636 was not found crab.mixins.json:ClientPlayerInteractionManagerMixin from mod crab
-[19:25:25] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
-[19:25:25] [main/WARN]: Error loading class: net/coderbot/iris/Iris (java.lang.ClassNotFoundException: net/coderbot/iris/Iris)
-[19:25:25] [main/WARN]: @Mixin target net.coderbot.iris.Iris was not found notenoughcrashes.fabric.mixins.json:iris.SilentNEC from mod notenoughcrashes
-[19:25:25] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
-[19:25:26] [main/INFO]: Loaded config for: structureessentials.json
-[19:25:26] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
-[19:25:26] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
-[19:25:26] [main/WARN]: Error loading class: net/minecraft/class_8609 (java.lang.ClassNotFoundException: net/minecraft/class_8609)
-[19:25:26] [main/ERROR]: crab.mixins.json:ServerPlayNetworkHandlerMixin from mod crab: Super class 'net.minecraft.class_8609' of ServerPlayNetworkHandlerMixin was not found in the hierarchy of target class 'net/minecraft/class_3244'
+[03:00:24] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/reimagined-barnacle/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:00:24] [main/INFO]: Compatibility level set to JAVA_17
+[03:00:24] [main/WARN]: Reference map 'automessage.refmap.json' for fabric-automessage.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:24] [main/WARN]: Reference map 'automessage.refmap.json' for fabric-automessage.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:24] [main/WARN]: Reference map 'connectedglass.mixins.refmap.json' for connectedglass.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:24] [main/WARN]: Reference map 'enderpack.refmap.json' for fabric-enderpack.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:24] [main/WARN]: Reference map 'enderpack.refmap.json' for fabric-enderpack.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:25] [main/WARN]: Reference map 'graveyard-FABRIC-fabric-refmap.json' for graveyard-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:25] [main/WARN]: Reference map 'JustEnoughResources-Fabric-1.20.1-refmap.json' for jeresources.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:25] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 1 override(s) found
+[03:00:25] [main/WARN]: Reference map 'more_beautiful_torches.refmap.json' for fabric-more_beautiful_torches.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:25] [main/WARN]: Reference map 'more_beautiful_torches.refmap.json' for fabric-more_beautiful_torches.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:25] [main/WARN]: Reference map 'mysticaloaktree-fabric-refmap.json' for mysticaloaktree.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:25] [main/WARN]: Reference map 'mysticaloaktree-common-refmap.json' for mysticaloaktree-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:25] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:25] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:25] [main/WARN]: Reference map 'timeondisplay.refmap.json' for fabric-timeondisplay.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:25] [main/WARN]: Reference map 'timeondisplay.refmap.json' for fabric-timeondisplay.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:25] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:25] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:00:25] [main/WARN]: Error loading class: net/minecraft/class_636 (java.lang.ClassNotFoundException: net/minecraft/class_636)
+[03:00:25] [main/WARN]: @Mixin target net.minecraft.class_636 was not found crab.mixins.json:ClientPlayerInteractionManagerMixin from mod crab
+[03:00:26] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[03:00:26] [main/WARN]: Error loading class: net/coderbot/iris/Iris (java.lang.ClassNotFoundException: net/coderbot/iris/Iris)
+[03:00:26] [main/WARN]: @Mixin target net.coderbot.iris.Iris was not found notenoughcrashes.fabric.mixins.json:iris.SilentNEC from mod notenoughcrashes
+[03:00:26] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[03:00:26] [main/INFO]: Loaded config for: structureessentials.json
+[03:00:26] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[03:00:26] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[03:00:27] [main/WARN]: Error loading class: net/minecraft/class_8609 (java.lang.ClassNotFoundException: net/minecraft/class_8609)
+[03:00:27] [main/ERROR]: crab.mixins.json:ServerPlayNetworkHandlerMixin from mod crab: Super class 'net.minecraft.class_8609' of ServerPlayNetworkHandlerMixin was not found in the hierarchy of target class 'net/minecraft/class_3244'
 org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super class 'net.minecraft.class_8609' of ServerPlayNetworkHandlerMixin was not found in the hierarchy of target class 'net/minecraft/class_3244'
 	at org.spongepowered.asm.mixin.transformer.MixinInfo$SubType$Standard.validate(MixinInfo.java:593) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
 	at org.spongepowered.asm.mixin.transformer.MixinInfo$State.validate(MixinInfo.java:327) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
@@ -371,19 +371,19 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[19:25:26] [main/WARN]: Error loading class: net/minecraft/unmapped/C_mxrobsgg$C_wdomexrk (java.lang.ClassNotFoundException: net/minecraft/unmapped/C_mxrobsgg$C_wdomexrk)
-[19:25:26] [main/WARN]: Error loading class: net/minecraft/server/network/ServerPlayerEntity$2 (java.lang.ClassNotFoundException: net/minecraft/server/network/ServerPlayerEntity$2)
-[19:25:26] [main/WARN]: Error loading class: net/minecraft/unmapped/C_mxrobsgg$C_wdomexrk (java.lang.ClassNotFoundException: net/minecraft/unmapped/C_mxrobsgg$C_wdomexrk)
-[19:25:26] [main/WARN]: Error loading class: net/minecraft/server/network/ServerPlayerEntity$2 (java.lang.ClassNotFoundException: net/minecraft/server/network/ServerPlayerEntity$2)
-[19:25:26] [main/WARN]: Error loading class: net/minecraft/unmapped/C_mxrobsgg$C_wdomexrk (java.lang.ClassNotFoundException: net/minecraft/unmapped/C_mxrobsgg$C_wdomexrk)
-[19:25:26] [main/WARN]: Error loading class: net/minecraft/server/network/ServerPlayerEntity$2 (java.lang.ClassNotFoundException: net/minecraft/server/network/ServerPlayerEntity$2)
-[19:25:26] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19:25:28] [main/INFO]: Mixing server.MixinDedicatedServer from mixins/common/nochatreports.mixins.json into net.minecraft.class_3176
-[19:25:28] [main/INFO]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.class_2540
-[19:25:28] [main/INFO]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to mdbee5aa$nochatreports$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
-[19:25:28] [main/INFO]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to mdbee5aa$nochatreports$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
-[19:25:33] [main/INFO]: Instancing error handler class com.illusivesoulworks.polymorph.mixin.IntegratedMixinPlugin
-[19:25:33] [main/WARN]: Mixin apply for mod necronomicon failed necronomicon-common.mixins.json:item.AnimatedItemNameMixin from mod necronomicon -> net.minecraft.class_1799: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException Critical injection failure: @Inject annotation on getName could not find any targets matching 'getHoverName' in net/minecraft/class_1799. No refMap loaded. [handler$cka000$necronomicon$getName(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V -> Parse ->  -> Validate Targets]
+[03:00:27] [main/WARN]: Error loading class: net/minecraft/unmapped/C_mxrobsgg$C_wdomexrk (java.lang.ClassNotFoundException: net/minecraft/unmapped/C_mxrobsgg$C_wdomexrk)
+[03:00:27] [main/WARN]: Error loading class: net/minecraft/server/network/ServerPlayerEntity$2 (java.lang.ClassNotFoundException: net/minecraft/server/network/ServerPlayerEntity$2)
+[03:00:27] [main/WARN]: Error loading class: net/minecraft/unmapped/C_mxrobsgg$C_wdomexrk (java.lang.ClassNotFoundException: net/minecraft/unmapped/C_mxrobsgg$C_wdomexrk)
+[03:00:27] [main/WARN]: Error loading class: net/minecraft/server/network/ServerPlayerEntity$2 (java.lang.ClassNotFoundException: net/minecraft/server/network/ServerPlayerEntity$2)
+[03:00:27] [main/WARN]: Error loading class: net/minecraft/unmapped/C_mxrobsgg$C_wdomexrk (java.lang.ClassNotFoundException: net/minecraft/unmapped/C_mxrobsgg$C_wdomexrk)
+[03:00:27] [main/WARN]: Error loading class: net/minecraft/server/network/ServerPlayerEntity$2 (java.lang.ClassNotFoundException: net/minecraft/server/network/ServerPlayerEntity$2)
+[03:00:27] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03:00:28] [main/INFO]: Mixing server.MixinDedicatedServer from mixins/common/nochatreports.mixins.json into net.minecraft.class_3176
+[03:00:29] [main/INFO]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.class_2540
+[03:00:29] [main/INFO]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to md535735$nochatreports$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[03:00:29] [main/INFO]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to md535735$nochatreports$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[03:00:32] [main/INFO]: Instancing error handler class com.illusivesoulworks.polymorph.mixin.IntegratedMixinPlugin
+[03:00:32] [main/WARN]: Mixin apply for mod necronomicon failed necronomicon-common.mixins.json:item.AnimatedItemNameMixin from mod necronomicon -> net.minecraft.class_1799: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException Critical injection failure: @Inject annotation on getName could not find any targets matching 'getHoverName' in net/minecraft/class_1799. No refMap loaded. [handler$cka000$necronomicon$getName(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V -> Parse ->  -> Validate Targets]
 org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Critical injection failure: @Inject annotation on getName could not find any targets matching 'getHoverName' in net/minecraft/class_1799. No refMap loaded. [handler$cka000$necronomicon$getName(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V -> Parse ->  -> Validate Targets]
 	at org.spongepowered.asm.mixin.injection.selectors.TargetSelectors.validate(TargetSelectors.java:346) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.readAnnotation(InjectionInfo.java:369) ~[sponge-mixin-0.15.4+mixin.0.8.7.jar:0.15.4+mixin.0.8.7]
@@ -424,262 +424,263 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[19:25:37] [main/INFO]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.class_3244
-[19:25:39] [main/INFO]: Loaded config for: cupboard.json
-[19:25:40] [main/INFO]: Loaded config for: memorysettings.json
-[19:25:40] [main/WARN]: You have more more memory allocated than recommended for your system, the recommended amount for your system is: 6000 mb.
+[03:00:36] [main/INFO]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.class_3244
+[03:00:38] [main/INFO]: Loaded config for: cupboard.json
+[03:00:39] [main/INFO]: Loaded config for: memorysettings.json
+[03:00:39] [main/WARN]: You have more more memory allocated than recommended for your system, the recommended amount for your system is: 6000 mb.
 
-[19:25:40] [main/INFO]: [rightclickharvest] Initializing VersionUtils
-[19:25:40] [main/INFO]: [rightclickharvest] VersionUtils initialized successfully
-[19:25:40] [main/INFO]: Hello from Common init on Fabric! we are currently in a production environment!
-[19:25:40] [main/INFO]: The ID for diamonds is minecraft:diamond
-[19:25:42] [main/INFO]: Hello Fabric world!
-[19:25:42] [main/INFO]: Hello from AutoMessage Common init on Fabric! we are currently in a production environment!
-[19:25:42] [main/INFO]: The ID for diamonds is minecraft:diamond
-[19:25:42] [main/INFO]: Hello to AutoMessage
-[19:25:42] [main/INFO]: Initializing Backported-Wolves Config.
-[19:25:42] [main/INFO]: backported_wolves registered wolf spawns successfully.
-[19:25:42] [main/INFO]: Initializing Beans' Backpacks Constants
-[19:25:42] [main/INFO]: Initializing Beans' Backpacks Common
-[19:25:43] [main/INFO]: Initializing Beans' Backpacks Fabric
-[19:25:43] [main/INFO]: Reflections took 47 ms to scan 1 urls, producing 1 keys and 2 values
-[19:25:43] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[19:25:43] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
-[19:25:43] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[19:25:43] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[19:25:43] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[19:25:43] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[19:25:43] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[19:25:43] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
-[19:25:43] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[19:25:43] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[19:25:43] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[19:25:43] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[19:25:43] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[19:25:43] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[19:25:43] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[19:25:43] [main/INFO]: BoatBreakFix initialized
-[19:25:43] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[19:25:43] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[19:25:43] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[19:25:43] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[19:25:43] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[19:25:43] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[19:25:43] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[19:25:43] [main/INFO]: Loading Collective version 7.87.
-[19:25:43] [main/INFO]: Connectivity initialized
-[19:25:43] [main/INFO]: [STDOUT]: All 4 have been set properly
-[19:25:43] [main/INFO]: [STDOUT]: Registered Mod Items for crab
-[19:25:43] [main/ERROR]: No data fixer registered for jungle_creeper
-[19:25:43] [main/ERROR]: No data fixer registered for bamboo_creeper
-[19:25:43] [main/ERROR]: No data fixer registered for desert_creeper
-[19:25:43] [main/ERROR]: No data fixer registered for badlands_creeper
-[19:25:43] [main/ERROR]: No data fixer registered for hills_creeper
-[19:25:43] [main/ERROR]: No data fixer registered for savannah_creeper
-[19:25:43] [main/ERROR]: No data fixer registered for mushroom_creeper
-[19:25:43] [main/ERROR]: No data fixer registered for swamp_creeper
-[19:25:43] [main/ERROR]: No data fixer registered for dripstone_creeper
-[19:25:43] [main/ERROR]: No data fixer registered for cave_creeper
-[19:25:43] [main/ERROR]: No data fixer registered for dark_oak_creeper
-[19:25:43] [main/ERROR]: No data fixer registered for spruce_creeper
-[19:25:43] [main/ERROR]: No data fixer registered for beach_creeper
-[19:25:43] [main/ERROR]: No data fixer registered for snowy_creeper
-[19:25:43] [main/ERROR]: No data fixer registered for ocean_creeper
-[19:25:44] [Cicada thread 0/INFO]: [do_a_barrel_roll] Why play a flight sim when you have modded Minecraft?
-[19:25:45] [main/ERROR]: No data fixer registered for crystallized_amber
-[19:25:45] [main/ERROR]: No data fixer registered for sculk_jaw
-[19:25:45] [main/INFO]: Loaded DEUF Refabricated Config
-[19:25:45] [main/INFO]: Constructing common components for diagonalblocks:main
-[19:25:45] [main/INFO]: Constructing common components for diagonalfences:main
-[19:25:45] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 39ms
-[19:25:45] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 42ms
-[19:25:45] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 89ms
-[19:25:45] [main/INFO]: Hello Fabric world!
-[19:25:45] [main/INFO]: Constructing common components for easyanvils:main
-[19:25:45] [main/INFO]: Constructing common components for easymagic:main
-[19:25:45] [main/INFO]: Constructing common components for easyshulkerboxes:main
-[19:25:46] [main/INFO]: Fabric Shield Lib Initialized!
-[19:25:46] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:windsong_lyre
-[19:25:46] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:vintage_lyre
-[19:25:46] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:floral_zither_new
-[19:25:46] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:floral_zither_old
-[19:25:46] [main/INFO]: Successfully registered 2 note sounds of genshinstrument:glorious_drum
-[19:25:46] [main/INFO]: Successfully registered 14 note sounds of genshinstrument:nightwind_horn_hold
-[19:25:46] [main/INFO]: Successfully registered 14 note sounds of genshinstrument:nightwind_horn_attack
-[19:25:46] [main/INFO]: Successfully loaded 14 (x2, 28 total) held note sounds for genshinstrument:nightwind_horn
-[19:25:46] [main/INFO]: Registered all note sounds for instruments
-[19:25:46] [main/INFO]: Registered all instrument items
-[19:25:46] [main/ERROR]: No data fixer registered for graveyard:reaper
-[19:25:46] [main/ERROR]: No data fixer registered for graveyard:acolyte
-[19:25:46] [main/ERROR]: No data fixer registered for graveyard:corrupted_vindicator
-[19:25:46] [main/ERROR]: No data fixer registered for graveyard:corrupted_pillager
-[19:25:46] [main/ERROR]: No data fixer registered for graveyard:skeleton_creeper
-[19:25:46] [main/ERROR]: No data fixer registered for graveyard:falling_corpse
-[19:25:46] [main/ERROR]: No data fixer registered for graveyard:ghoul
-[19:25:46] [main/ERROR]: No data fixer registered for graveyard:revenant
-[19:25:46] [main/ERROR]: No data fixer registered for graveyard:wraith
-[19:25:46] [main/ERROR]: No data fixer registered for graveyard:nightmare
-[19:25:46] [main/ERROR]: No data fixer registered for graveyard:ghouling
-[19:25:46] [main/ERROR]: No data fixer registered for graveyard:lich
-[19:25:46] [main/ERROR]: No data fixer registered for graveyard:skull
-[19:25:46] [main/ERROR]: No data fixer registered for graveyard:nameless_hanged
-[19:25:46] [main/INFO]: Registered JSON trade offer adapter.
-[19:25:46] [main/INFO]: Constructing common components for hangglider:main
-[19:25:46] [main/INFO]: Wrong common config version 1 for mod Ice And Fire! Automatically use version 2 and backup old one.
-[19:25:46] [main/ERROR]: No data fixer registered for dragon_multipart
-[19:25:46] [main/ERROR]: No data fixer registered for multipart
-[19:25:46] [main/ERROR]: No data fixer registered for hydra_multipart
-[19:25:46] [main/ERROR]: No data fixer registered for cylcops_multipart
-[19:25:46] [main/ERROR]: No data fixer registered for dragon_egg
-[19:25:46] [main/ERROR]: No data fixer registered for dragon_arrow
-[19:25:46] [main/ERROR]: No data fixer registered for dragon_skull
-[19:25:46] [main/ERROR]: No data fixer registered for fire_dragon
-[19:25:46] [main/ERROR]: No data fixer registered for ice_dragon
-[19:25:46] [main/ERROR]: No data fixer registered for lightning_dragon
-[19:25:46] [main/ERROR]: No data fixer registered for fire_dragon_charge
-[19:25:46] [main/ERROR]: No data fixer registered for ice_dragon_charge
-[19:25:46] [main/ERROR]: No data fixer registered for lightning_dragon_charge
-[19:25:46] [main/ERROR]: No data fixer registered for hippogryph_egg
-[19:25:46] [main/ERROR]: No data fixer registered for hippogryph
-[19:25:46] [main/ERROR]: No data fixer registered for stone_statue
-[19:25:46] [main/ERROR]: No data fixer registered for gorgon
-[19:25:46] [main/ERROR]: No data fixer registered for pixie
-[19:25:46] [main/ERROR]: No data fixer registered for cyclops
-[19:25:46] [main/ERROR]: No data fixer registered for siren
-[19:25:46] [main/ERROR]: No data fixer registered for hippocampus
-[19:25:46] [main/ERROR]: No data fixer registered for deathworm
-[19:25:46] [main/ERROR]: No data fixer registered for deathworm_egg
-[19:25:46] [main/ERROR]: No data fixer registered for cockatrice
-[19:25:46] [main/ERROR]: No data fixer registered for cockatrice_egg
-[19:25:46] [main/ERROR]: No data fixer registered for stymphalian_bird
-[19:25:46] [main/ERROR]: No data fixer registered for stymphalian_feather
-[19:25:46] [main/ERROR]: No data fixer registered for stymphalian_arrow
-[19:25:46] [main/ERROR]: No data fixer registered for troll
-[19:25:46] [main/ERROR]: No data fixer registered for myrmex_worker
-[19:25:46] [main/ERROR]: No data fixer registered for myrmex_soldier
-[19:25:46] [main/ERROR]: No data fixer registered for myrmex_sentinel
-[19:25:46] [main/ERROR]: No data fixer registered for myrmex_royal
-[19:25:46] [main/ERROR]: No data fixer registered for myrmex_queen
-[19:25:46] [main/ERROR]: No data fixer registered for myrmex_egg
-[19:25:46] [main/ERROR]: No data fixer registered for amphithere
-[19:25:46] [main/ERROR]: No data fixer registered for amphithere_arrow
-[19:25:46] [main/ERROR]: No data fixer registered for sea_serpent
-[19:25:46] [main/ERROR]: No data fixer registered for sea_serpent_bubbles
-[19:25:46] [main/ERROR]: No data fixer registered for sea_serpent_arrow
-[19:25:46] [main/ERROR]: No data fixer registered for chain_tie
-[19:25:46] [main/ERROR]: No data fixer registered for pixie_charge
-[19:25:46] [main/ERROR]: No data fixer registered for myrmex_swarmer
-[19:25:46] [main/ERROR]: No data fixer registered for tide_trident
-[19:25:46] [main/ERROR]: No data fixer registered for mob_skull
-[19:25:46] [main/ERROR]: No data fixer registered for dread_thrall
-[19:25:46] [main/ERROR]: No data fixer registered for dread_ghoul
-[19:25:46] [main/ERROR]: No data fixer registered for dread_beast
-[19:25:46] [main/ERROR]: No data fixer registered for dread_scuttler
-[19:25:46] [main/ERROR]: No data fixer registered for dread_lich
-[19:25:46] [main/ERROR]: No data fixer registered for dread_lich_skull
-[19:25:46] [main/ERROR]: No data fixer registered for dread_knight
-[19:25:46] [main/ERROR]: No data fixer registered for dread_horse
-[19:25:46] [main/ERROR]: No data fixer registered for hydra
-[19:25:46] [main/ERROR]: No data fixer registered for hydra_breath
-[19:25:46] [main/ERROR]: No data fixer registered for hydra_arrow
-[19:25:46] [main/ERROR]: No data fixer registered for ghost
-[19:25:46] [main/ERROR]: No data fixer registered for ghost_sword
-[19:25:46] [main/INFO]: Registering C2S receiver with id iceandfire:myrmex_sync
-[19:25:46] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
-[19:25:46] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
-[19:25:46] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
-[19:25:46] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
-[19:25:47] [main/INFO]: Setting up file watchers
-[19:25:47] [main/INFO]: [jamlib] Mod initialized!
-[19:25:47] [main/INFO]: 1 Jupiter entrypoint(s) detected: jupiter:jupiter
-[19:25:47] [main/INFO]: Processing 6 KiwiModule annotations
-[19:25:47] [main/INFO]: Module [kiwi:contributors] initialized
-[19:25:47] [main/INFO]: Module [snowrealmagic:core] initialized
-[19:25:47] [main/INFO]: 		block: 7, block_entity_type: 2, entity_type: 1, loot_pool_entry_type: 1
-[19:25:47] [main/INFO]: Module [kiwi:block_templates] initialized
-[19:25:47] [main/INFO]: Module [kiwi:block_components] initialized
-[19:25:47] [main/INFO]: Module [kiwi:data] initialized
-[19:25:47] [main/INFO]: 		recipe_serializer: 3
-[19:25:47] [main/INFO]: Module [kiwi:item_templates] initialized
-[19:25:47] [main/INFO]: [KONKRETE] Successfully initialized!
-[19:25:47] [main/INFO]: [KONKRETE] Server-side libs ready to use!
-[19:25:47] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
-[19:25:48] [main/INFO]: [MELODY] Disabling Melody since it's loaded server-side.
-[19:25:48] [main/INFO]: Definitely not up to no good
-[19:25:48] [main/INFO]: FabricItemGroupRegistry more_beautiful_torches
-[19:25:48] [main/ERROR]: No data fixer registered for more_useful_copper:copper_golem
-[19:25:48] [main/INFO]: Necronomicon Initialized
-[19:25:48] [main/INFO]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
-[19:25:48] [main/INFO]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
-[19:25:48] [main/ERROR]: No data fixer registered for primed_tnt_slab
-[19:25:48] [main/INFO]: KONNICHIWA ZA WARUDO!
-[19:25:48] [main/INFO]: Default JVM text encoding is: UTF-8
-[19:25:48] [main/INFO]: Reading config file NoChatReports/NCR-Common.json...
-[19:25:48] [main/INFO]: Writing config file NoChatReports/NCR-Common.json...
-[19:25:48] [main/INFO]: Loading Noisium.
-[19:25:48] [main/INFO]: Noaaan: It's surprising how much knowledge is lost by the simple fact that people don't know it
-[19:25:48] [main/INFO]: Constructing common components for puzzlesapi:iteminteractions
-[19:25:48] [main/INFO]: Constructing common components for puzzlesapi:slotcycling
-[19:25:48] [main/INFO]: Constructing common components for puzzlesapi:limitlesscontainers
-[19:25:48] [main/INFO]: Constructing common components for puzzlesapi:statues
-[19:25:48] [main/INFO]: Constructing common components for puzzleslib:main
-[19:25:48] [main/INFO]: Reflections took 19 ms to scan 1 urls, producing 6 keys and 40 values
-[19:25:48] [main/INFO]: Reflections took 13 ms to scan 1 urls, producing 6 keys and 40 values
-[19:25:48] [main/INFO]: Registering Ribbit instruments...
-[19:25:48] [main/INFO]: Registering Ribbit umbrella types...
-[19:25:48] [main/INFO]: Registering Ribbit professions...
-[19:25:48] [main/INFO]: Registering Ribbit data serializers...
-[19:25:48] [main/INFO]: [jamlib] Registered config for rightclickharvest
-[19:25:48] [main/INFO]: [rightclickharvest] Mod initialized!
-[19:25:49] [main/ERROR]: No data fixer registered for battlestandard
-[19:25:49] [main/ERROR]: No data fixer registered for battlestandarddark
-[19:25:49] [main/ERROR]: No data fixer registered for simplyswords:simplybeeentity
-[19:25:49] [main/INFO]: [STDOUT]: /workspaces/reimagined-barnacle/servidor_minecraft/config
-[19:25:49] [main/INFO]: Loading SnufflesConfig...
-[19:25:49] [main/INFO]: Reading config values from file.
-[19:25:49] [Thread-9/INFO]: Starting to fetch sponsor list.
-[19:25:49] [main/INFO]: structureessentials mod initialized
-[19:25:49] [main/INFO]: [Surveyor] is not a map mod
-[19:25:49] [Thread-9/INFO]: Successfully fetch sponsor list.
-[19:25:50] [main/INFO]: Hello Fabric world!
-[19:25:50] [main/INFO]: Hello from TimeOnDisplay Common init on Fabric! we are currently in a production environment!
-[19:25:50] [main/INFO]: The ID for diamonds is minecraft:diamond
-[19:25:50] [main/INFO]: Hello to TimeOnDisplay
-[19:25:50] [main/INFO]: !?
-[19:25:50] [main/INFO]: Registering Mod Items for torchesntrinkets
-[19:25:50] [main/INFO]: Registering Item Groups fortorchesntrinkets
-[19:25:50] [main/ERROR]: No data fixer registered for 
-[19:25:50] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[19:25:50] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[19:25:50] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[19:25:50] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[19:25:50] [main/INFO]: Constructing common components for visualworkbench:main
-[19:25:50] [main/INFO]: [voicechat] Compatibility version 18
-[19:25:50] [main/INFO]: [voicechat] Loading plugins
-[19:25:50] [main/INFO]: [voicechat] Loaded 2 plugin(s)
-[19:25:50] [main/INFO]: [voicechat] Initializing plugins
-[19:25:50] [main/INFO]: Initializing Simple Voice Chat integration
-[19:25:50] [main/INFO]: [voicechat] Initialized 2 plugin(s)
-[19:25:50] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
-[19:25:50] [main/INFO]: [voicechat] Registering events for 'vcinteraction'
-[19:25:50] [main/INFO]: [STDOUT]: Initialize WeaponMaster
-[19:25:50] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 4 values
-[19:25:50] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 4 values
-[19:25:50] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[19:25:50] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[19:25:50] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[19:25:50] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[19:25:50] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
-[19:25:50] [main/INFO]: Initialized block sets in 18ms
-[19:25:50] [main/INFO]: Loaded config sawmill-common.json
-[19:25:50] [main/INFO]: Initialized color sets in 40ms
-[19:25:50] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:25:51] [main/INFO]: Generated runtime SERVER_DATA for pack Sawmill Sawmill Recipes (sawmill) in: 0 ms (debug resource dump on)
-[19:25:54] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[19:25:55] [main/INFO]: Reading Data for beansbackpacks
-[19:25:55] [main/INFO]: Loading config file lenientdeath.json5
-[19:25:56] [Worker-Main-3/ERROR]: Couldn't load tag create:pressurized_air_sources as it is missing following references: deeperdarker:warden_backtank (from fabric)
-[19:25:57] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:deeperdarker:blocks/warden_backtank
+[03:00:39] [main/INFO]: [rightclickharvest] Initializing VersionUtils
+[03:00:39] [main/INFO]: [rightclickharvest] VersionUtils initialized successfully
+[03:00:39] [main/INFO]: Hello from Common init on Fabric! we are currently in a production environment!
+[03:00:39] [main/INFO]: The ID for diamonds is minecraft:diamond
+[03:00:41] [main/INFO]: Hello Fabric world!
+[03:00:41] [main/INFO]: Hello from AutoMessage Common init on Fabric! we are currently in a production environment!
+[03:00:41] [main/INFO]: The ID for diamonds is minecraft:diamond
+[03:00:41] [main/INFO]: Hello to AutoMessage
+[03:00:41] [main/INFO]: Initializing Backported-Wolves Config.
+[03:00:41] [main/INFO]: backported_wolves registered wolf spawns successfully.
+[03:00:41] [main/INFO]: Initializing Beans' Backpacks Constants
+[03:00:41] [main/INFO]: Initializing Beans' Backpacks Common
+[03:00:41] [main/INFO]: Initializing Beans' Backpacks Fabric
+[03:00:41] [main/INFO]: Reflections took 56 ms to scan 1 urls, producing 1 keys and 2 values
+[03:00:41] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[03:00:41] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[03:00:41] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[03:00:41] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 2 values
+[03:00:41] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[03:00:41] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
+[03:00:41] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[03:00:41] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[03:00:41] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
+[03:00:41] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[03:00:41] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[03:00:41] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[03:00:41] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[03:00:41] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 1 values
+[03:00:41] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[03:00:41] [main/INFO]: BoatBreakFix initialized
+[03:00:41] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[03:00:41] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[03:00:41] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[03:00:41] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[03:00:41] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[03:00:41] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[03:00:41] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[03:00:42] [main/INFO]: Loading Collective version 7.87.
+[03:00:42] [main/INFO]: Connectivity initialized
+[03:00:42] [main/INFO]: [STDOUT]: All 4 have been set properly
+[03:00:42] [main/INFO]: [STDOUT]: Registered Mod Items for crab
+[03:00:43] [main/ERROR]: No data fixer registered for jungle_creeper
+[03:00:43] [main/ERROR]: No data fixer registered for bamboo_creeper
+[03:00:43] [main/ERROR]: No data fixer registered for desert_creeper
+[03:00:43] [main/ERROR]: No data fixer registered for badlands_creeper
+[03:00:43] [main/ERROR]: No data fixer registered for hills_creeper
+[03:00:43] [main/ERROR]: No data fixer registered for savannah_creeper
+[03:00:43] [main/ERROR]: No data fixer registered for mushroom_creeper
+[03:00:43] [main/ERROR]: No data fixer registered for swamp_creeper
+[03:00:43] [main/ERROR]: No data fixer registered for dripstone_creeper
+[03:00:43] [main/ERROR]: No data fixer registered for cave_creeper
+[03:00:43] [main/ERROR]: No data fixer registered for dark_oak_creeper
+[03:00:43] [main/ERROR]: No data fixer registered for spruce_creeper
+[03:00:43] [main/ERROR]: No data fixer registered for beach_creeper
+[03:00:43] [main/ERROR]: No data fixer registered for snowy_creeper
+[03:00:43] [main/ERROR]: No data fixer registered for ocean_creeper
+[03:00:43] [Cicada thread 0/INFO]: [do_a_barrel_roll] One day I'll finish the swimming version of this mod. One day.
+[03:00:43] [Cicada thread 0/INFO]: [do_a_barrel_roll] Though that day may come sooner than expected...
+[03:00:44] [main/ERROR]: No data fixer registered for crystallized_amber
+[03:00:44] [main/ERROR]: No data fixer registered for sculk_jaw
+[03:00:44] [main/INFO]: Loaded DEUF Refabricated Config
+[03:00:44] [main/INFO]: Constructing common components for diagonalblocks:main
+[03:00:44] [main/INFO]: Constructing common components for diagonalfences:main
+[03:00:44] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 44ms
+[03:00:44] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 44ms
+[03:00:44] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 121ms
+[03:00:44] [main/INFO]: Hello Fabric world!
+[03:00:44] [main/INFO]: Constructing common components for easyanvils:main
+[03:00:44] [main/INFO]: Constructing common components for easymagic:main
+[03:00:44] [main/INFO]: Constructing common components for easyshulkerboxes:main
+[03:00:44] [main/INFO]: Fabric Shield Lib Initialized!
+[03:00:44] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:windsong_lyre
+[03:00:44] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:vintage_lyre
+[03:00:44] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:floral_zither_new
+[03:00:44] [main/INFO]: Successfully registered 21 note sounds of genshinstrument:floral_zither_old
+[03:00:44] [main/INFO]: Successfully registered 2 note sounds of genshinstrument:glorious_drum
+[03:00:44] [main/INFO]: Successfully registered 14 note sounds of genshinstrument:nightwind_horn_hold
+[03:00:44] [main/INFO]: Successfully registered 14 note sounds of genshinstrument:nightwind_horn_attack
+[03:00:44] [main/INFO]: Successfully loaded 14 (x2, 28 total) held note sounds for genshinstrument:nightwind_horn
+[03:00:44] [main/INFO]: Registered all note sounds for instruments
+[03:00:44] [main/INFO]: Registered all instrument items
+[03:00:45] [main/ERROR]: No data fixer registered for graveyard:reaper
+[03:00:45] [main/ERROR]: No data fixer registered for graveyard:acolyte
+[03:00:45] [main/ERROR]: No data fixer registered for graveyard:corrupted_vindicator
+[03:00:45] [main/ERROR]: No data fixer registered for graveyard:corrupted_pillager
+[03:00:45] [main/ERROR]: No data fixer registered for graveyard:skeleton_creeper
+[03:00:45] [main/ERROR]: No data fixer registered for graveyard:falling_corpse
+[03:00:45] [main/ERROR]: No data fixer registered for graveyard:ghoul
+[03:00:45] [main/ERROR]: No data fixer registered for graveyard:revenant
+[03:00:45] [main/ERROR]: No data fixer registered for graveyard:wraith
+[03:00:45] [main/ERROR]: No data fixer registered for graveyard:nightmare
+[03:00:45] [main/ERROR]: No data fixer registered for graveyard:ghouling
+[03:00:45] [main/ERROR]: No data fixer registered for graveyard:lich
+[03:00:45] [main/ERROR]: No data fixer registered for graveyard:skull
+[03:00:45] [main/ERROR]: No data fixer registered for graveyard:nameless_hanged
+[03:00:45] [main/INFO]: Registered JSON trade offer adapter.
+[03:00:45] [main/INFO]: Constructing common components for hangglider:main
+[03:00:45] [main/INFO]: Wrong common config version 1 for mod Ice And Fire! Automatically use version 2 and backup old one.
+[03:00:45] [main/ERROR]: No data fixer registered for dragon_multipart
+[03:00:45] [main/ERROR]: No data fixer registered for multipart
+[03:00:45] [main/ERROR]: No data fixer registered for hydra_multipart
+[03:00:45] [main/ERROR]: No data fixer registered for cylcops_multipart
+[03:00:45] [main/ERROR]: No data fixer registered for dragon_egg
+[03:00:45] [main/ERROR]: No data fixer registered for dragon_arrow
+[03:00:45] [main/ERROR]: No data fixer registered for dragon_skull
+[03:00:45] [main/ERROR]: No data fixer registered for fire_dragon
+[03:00:45] [main/ERROR]: No data fixer registered for ice_dragon
+[03:00:45] [main/ERROR]: No data fixer registered for lightning_dragon
+[03:00:45] [main/ERROR]: No data fixer registered for fire_dragon_charge
+[03:00:45] [main/ERROR]: No data fixer registered for ice_dragon_charge
+[03:00:45] [main/ERROR]: No data fixer registered for lightning_dragon_charge
+[03:00:45] [main/ERROR]: No data fixer registered for hippogryph_egg
+[03:00:45] [main/ERROR]: No data fixer registered for hippogryph
+[03:00:45] [main/ERROR]: No data fixer registered for stone_statue
+[03:00:45] [main/ERROR]: No data fixer registered for gorgon
+[03:00:45] [main/ERROR]: No data fixer registered for pixie
+[03:00:45] [main/ERROR]: No data fixer registered for cyclops
+[03:00:45] [main/ERROR]: No data fixer registered for siren
+[03:00:45] [main/ERROR]: No data fixer registered for hippocampus
+[03:00:45] [main/ERROR]: No data fixer registered for deathworm
+[03:00:45] [main/ERROR]: No data fixer registered for deathworm_egg
+[03:00:45] [main/ERROR]: No data fixer registered for cockatrice
+[03:00:45] [main/ERROR]: No data fixer registered for cockatrice_egg
+[03:00:45] [main/ERROR]: No data fixer registered for stymphalian_bird
+[03:00:45] [main/ERROR]: No data fixer registered for stymphalian_feather
+[03:00:45] [main/ERROR]: No data fixer registered for stymphalian_arrow
+[03:00:45] [main/ERROR]: No data fixer registered for troll
+[03:00:45] [main/ERROR]: No data fixer registered for myrmex_worker
+[03:00:45] [main/ERROR]: No data fixer registered for myrmex_soldier
+[03:00:45] [main/ERROR]: No data fixer registered for myrmex_sentinel
+[03:00:45] [main/ERROR]: No data fixer registered for myrmex_royal
+[03:00:45] [main/ERROR]: No data fixer registered for myrmex_queen
+[03:00:45] [main/ERROR]: No data fixer registered for myrmex_egg
+[03:00:45] [main/ERROR]: No data fixer registered for amphithere
+[03:00:45] [main/ERROR]: No data fixer registered for amphithere_arrow
+[03:00:45] [main/ERROR]: No data fixer registered for sea_serpent
+[03:00:45] [main/ERROR]: No data fixer registered for sea_serpent_bubbles
+[03:00:45] [main/ERROR]: No data fixer registered for sea_serpent_arrow
+[03:00:45] [main/ERROR]: No data fixer registered for chain_tie
+[03:00:45] [main/ERROR]: No data fixer registered for pixie_charge
+[03:00:45] [main/ERROR]: No data fixer registered for myrmex_swarmer
+[03:00:45] [main/ERROR]: No data fixer registered for tide_trident
+[03:00:45] [main/ERROR]: No data fixer registered for mob_skull
+[03:00:45] [main/ERROR]: No data fixer registered for dread_thrall
+[03:00:45] [main/ERROR]: No data fixer registered for dread_ghoul
+[03:00:45] [main/ERROR]: No data fixer registered for dread_beast
+[03:00:45] [main/ERROR]: No data fixer registered for dread_scuttler
+[03:00:45] [main/ERROR]: No data fixer registered for dread_lich
+[03:00:45] [main/ERROR]: No data fixer registered for dread_lich_skull
+[03:00:45] [main/ERROR]: No data fixer registered for dread_knight
+[03:00:45] [main/ERROR]: No data fixer registered for dread_horse
+[03:00:45] [main/ERROR]: No data fixer registered for hydra
+[03:00:45] [main/ERROR]: No data fixer registered for hydra_breath
+[03:00:45] [main/ERROR]: No data fixer registered for hydra_arrow
+[03:00:45] [main/ERROR]: No data fixer registered for ghost
+[03:00:45] [main/ERROR]: No data fixer registered for ghost_sword
+[03:00:45] [main/INFO]: Registering C2S receiver with id iceandfire:myrmex_sync
+[03:00:45] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
+[03:00:45] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
+[03:00:45] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
+[03:00:45] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
+[03:00:45] [main/INFO]: Setting up file watchers
+[03:00:45] [main/INFO]: [jamlib] Mod initialized!
+[03:00:45] [main/INFO]: 1 Jupiter entrypoint(s) detected: jupiter:jupiter
+[03:00:45] [main/INFO]: Processing 6 KiwiModule annotations
+[03:00:46] [main/INFO]: Module [kiwi:contributors] initialized
+[03:00:46] [main/INFO]: Module [snowrealmagic:core] initialized
+[03:00:46] [main/INFO]: 		block: 7, block_entity_type: 2, entity_type: 1, loot_pool_entry_type: 1
+[03:00:46] [main/INFO]: Module [kiwi:block_templates] initialized
+[03:00:46] [main/INFO]: Module [kiwi:block_components] initialized
+[03:00:46] [main/INFO]: Module [kiwi:data] initialized
+[03:00:46] [main/INFO]: 		recipe_serializer: 3
+[03:00:46] [main/INFO]: Module [kiwi:item_templates] initialized
+[03:00:46] [main/INFO]: [KONKRETE] Successfully initialized!
+[03:00:46] [main/INFO]: [KONKRETE] Server-side libs ready to use!
+[03:00:46] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 1.1.x (Linux x86_64)
+[03:00:46] [main/INFO]: [MELODY] Disabling Melody since it's loaded server-side.
+[03:00:46] [main/INFO]: Definitely not up to no good
+[03:00:46] [main/INFO]: FabricItemGroupRegistry more_beautiful_torches
+[03:00:46] [main/ERROR]: No data fixer registered for more_useful_copper:copper_golem
+[03:00:47] [main/INFO]: Necronomicon Initialized
+[03:00:47] [main/INFO]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[03:00:47] [main/INFO]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[03:00:47] [main/ERROR]: No data fixer registered for primed_tnt_slab
+[03:00:47] [main/INFO]: KONNICHIWA ZA WARUDO!
+[03:00:47] [main/INFO]: Default JVM text encoding is: UTF-8
+[03:00:47] [main/INFO]: Reading config file NoChatReports/NCR-Common.json...
+[03:00:47] [main/INFO]: Writing config file NoChatReports/NCR-Common.json...
+[03:00:47] [main/INFO]: Loading Noisium.
+[03:00:47] [main/INFO]: We don't have to worry about people re-inventing Venezuela glisco, that's their problem for integrating the Bourgeoisie into their pack
+[03:00:47] [main/INFO]: Constructing common components for puzzlesapi:iteminteractions
+[03:00:47] [main/INFO]: Constructing common components for puzzlesapi:slotcycling
+[03:00:47] [main/INFO]: Constructing common components for puzzlesapi:limitlesscontainers
+[03:00:47] [main/INFO]: Constructing common components for puzzlesapi:statues
+[03:00:47] [main/INFO]: Constructing common components for puzzleslib:main
+[03:00:47] [main/INFO]: Reflections took 16 ms to scan 1 urls, producing 6 keys and 40 values
+[03:00:47] [main/INFO]: Reflections took 13 ms to scan 1 urls, producing 6 keys and 40 values
+[03:00:47] [main/INFO]: Registering Ribbit instruments...
+[03:00:47] [main/INFO]: Registering Ribbit umbrella types...
+[03:00:47] [main/INFO]: Registering Ribbit professions...
+[03:00:47] [main/INFO]: Registering Ribbit data serializers...
+[03:00:47] [main/INFO]: [jamlib] Registered config for rightclickharvest
+[03:00:47] [main/INFO]: [rightclickharvest] Mod initialized!
+[03:00:48] [main/ERROR]: No data fixer registered for battlestandard
+[03:00:48] [main/ERROR]: No data fixer registered for battlestandarddark
+[03:00:48] [main/ERROR]: No data fixer registered for simplyswords:simplybeeentity
+[03:00:48] [main/INFO]: [STDOUT]: /workspaces/reimagined-barnacle/servidor_minecraft/config
+[03:00:48] [main/INFO]: Loading SnufflesConfig...
+[03:00:48] [main/INFO]: Reading config values from file.
+[03:00:48] [Thread-9/INFO]: Starting to fetch sponsor list.
+[03:00:48] [main/INFO]: structureessentials mod initialized
+[03:00:48] [main/INFO]: [Surveyor] is not a map mod
+[03:00:48] [Thread-9/INFO]: Successfully fetch sponsor list.
+[03:00:48] [main/INFO]: Hello Fabric world!
+[03:00:48] [main/INFO]: Hello from TimeOnDisplay Common init on Fabric! we are currently in a production environment!
+[03:00:48] [main/INFO]: The ID for diamonds is minecraft:diamond
+[03:00:48] [main/INFO]: Hello to TimeOnDisplay
+[03:00:48] [main/INFO]: !?
+[03:00:48] [main/INFO]: Registering Mod Items for torchesntrinkets
+[03:00:48] [main/INFO]: Registering Item Groups fortorchesntrinkets
+[03:00:48] [main/ERROR]: No data fixer registered for 
+[03:00:48] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[03:00:48] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[03:00:48] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[03:00:48] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[03:00:48] [main/INFO]: Constructing common components for visualworkbench:main
+[03:00:48] [main/INFO]: [voicechat] Compatibility version 18
+[03:00:48] [main/INFO]: [voicechat] Loading plugins
+[03:00:48] [main/INFO]: [voicechat] Loaded 2 plugin(s)
+[03:00:48] [main/INFO]: [voicechat] Initializing plugins
+[03:00:48] [main/INFO]: Initializing Simple Voice Chat integration
+[03:00:48] [main/INFO]: [voicechat] Initialized 2 plugin(s)
+[03:00:48] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[03:00:48] [main/INFO]: [voicechat] Registering events for 'vcinteraction'
+[03:00:48] [main/INFO]: [STDOUT]: Initialize WeaponMaster
+[03:00:48] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 4 values
+[03:00:48] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 4 values
+[03:00:48] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 2 values
+[03:00:48] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 2 values
+[03:00:48] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[03:00:48] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[03:00:49] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[03:00:49] [main/INFO]: Initialized block sets in 16ms
+[03:00:49] [main/INFO]: Loaded config sawmill-common.json
+[03:00:49] [main/INFO]: Initialized color sets in 48ms
+[03:00:49] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:00:49] [main/INFO]: Generated runtime SERVER_DATA for pack Sawmill Sawmill Recipes (sawmill) in: 0 ms (debug resource dump on)
+[03:00:51] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[03:00:52] [main/INFO]: Reading Data for beansbackpacks
+[03:00:52] [main/INFO]: Loading config file lenientdeath.json5
+[03:00:53] [Worker-Main-3/ERROR]: Couldn't load tag create:pressurized_air_sources as it is missing following references: deeperdarker:warden_backtank (from fabric)
+[03:00:53] [Worker-Main-2/ERROR]: Couldn't parse element loot_tables:deeperdarker:blocks/warden_backtank
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'deeperdarker:warden_backtank'
 	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -730,8 +731,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[19:25:57] [main/INFO]: Intercepted tag results
-[19:26:02] [main/ERROR]: Parsing error loading recipe deeperdarker:warden_diving_boots_smithing
+[03:00:54] [main/INFO]: Intercepted tag results
+[03:00:57] [main/ERROR]: Parsing error loading recipe deeperdarker:warden_diving_boots_smithing
 com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_diving_boots'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -756,7 +757,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_diving_boots
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[19:26:02] [main/ERROR]: Parsing error loading recipe iceandfire:delight/pixie_dust_milky_tea
+[03:00:57] [main/ERROR]: Parsing error loading recipe iceandfire:delight/pixie_dust_milky_tea
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -775,7 +776,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[19:26:02] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_ice_dragon_meat
+[03:00:57] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_ice_dragon_meat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -794,7 +795,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[19:26:02] [main/ERROR]: Parsing error loading recipe deeperdarker:warden_backtank_smithing
+[03:00:57] [main/ERROR]: Parsing error loading recipe deeperdarker:warden_backtank_smithing
 com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_backtank'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -819,7 +820,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_backtank'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[19:26:02] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_lightning_dragon_meat
+[03:00:57] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_lightning_dragon_meat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -838,7 +839,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[19:26:02] [main/ERROR]: Parsing error loading recipe iceandfire:delight/ghost_cream
+[03:00:57] [main/ERROR]: Parsing error loading recipe iceandfire:delight/ghost_cream
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -857,7 +858,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[19:26:02] [main/ERROR]: Parsing error loading recipe deeperdarker:warden_diving_helmet_smithing
+[03:00:57] [main/ERROR]: Parsing error loading recipe deeperdarker:warden_diving_helmet_smithing
 com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_diving_helmet'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -882,7 +883,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create:netherite_diving_helme
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[19:26:02] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_fire_dragon_meat
+[03:00:57] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_fire_dragon_meat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -901,10 +902,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[19:26:02] [main/INFO]: Generating Sawmill Recipes
-[19:26:02] [main/INFO]: Generated Sawmill recipes in 74 milliseconds
-[19:26:02] [main/INFO]: Loaded 10 recipes
-[19:26:02] [main/ERROR]: Failed to load function watching:check
+[03:00:57] [main/INFO]: Generating Sawmill Recipes
+[03:00:57] [main/INFO]: Generated Sawmill recipes in 71 milliseconds
+[03:00:57] [main/INFO]: Loaded 10 recipes
+[03:00:57] [main/ERROR]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -920,706 +921,85 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.class_5349.method_29451(class_5349.java:83) ~[server-intermediary.jar:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[19:26:02] [main/ERROR]: Parsing error loading custom advancement beansbackpacks:info/thank_you: Unknown required criterion 'has_upgraded'
-[19:26:02] [main/INFO]: Loaded 3501 advancements
-[19:26:02] [main/INFO]: Loading exposure lenses:
-[19:26:02] [main/INFO]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
-[19:26:02] [main/INFO]: Wrong common config version 1 for mod Ice And Fire! Automatically use version 2 and backup old one.
-[19:26:02] [main/INFO]: Successfully reload 2 server config(s).
-[19:26:02] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 48 translation keys
-[19:26:02] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: 1_splatus:spellbound/hot
-[19:26:04] [main/INFO]: Applied 12 data villager trades
-[19:26:05] [main/INFO]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.class_3324
-[19:26:05] [main/INFO]: Applied 3406 biome modifications to 188 of 188 new biomes in 123.5 ms
-[19:26:05] [Server thread/INFO]: Loading server config for easyanvils
-[19:26:05] [Thread-3/INFO]: Reloading server config for easyanvils
-[19:26:05] [Server thread/INFO]: Loading server config for easymagic
-[19:26:05] [Thread-3/INFO]: Reloading server config for easyanvils
-[19:26:05] [Server thread/INFO]: Loading server config for hangglider
-[19:26:05] [Thread-3/INFO]: Reloading server config for hangglider
-[19:26:05] [Thread-3/INFO]: Reloading server config for hangglider
-[19:26:05] [Server thread/INFO]: Loading server config for puzzlesapi
-[19:26:05] [Thread-3/INFO]: Reloading server config for puzzlesapi
-[19:26:05] [Thread-3/INFO]: Reloading server config for puzzlesapi
-[19:26:05] [Server thread/INFO]: Injecting Carpenter Village Houses
-[19:26:05] [Server thread/INFO]: Starting background profiler...
-[19:26:07] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[19:26:07] [Server thread/INFO]: Loading properties
-[19:26:07] [Server thread/INFO]: Default game type: SURVIVAL
-[19:26:07] [Server thread/INFO]: Generating keypair
-[19:26:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:26:07] [Server thread/INFO]: Using epoll channel type
-[19:26:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:26:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:26:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:26:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:26:07] [Server thread/INFO]: Preparing level "world"
-[19:26:07] [Server thread/INFO]: [Surveyor] Loading data for minecraft:overworld
-[19:26:07] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:overworld
-[19:26:08] [Server thread/INFO]: [Surveyor] Loading data for deeperdarker:otherside
-[19:26:08] [Server thread/INFO]: [Surveyor] Finished loading data for deeperdarker:otherside
-[19:26:13] [Server thread/INFO]: [Surveyor] Loading data for iceandfire:dread_land
-[19:26:13] [Server thread/INFO]: [Surveyor] Finished loading data for iceandfire:dread_land
-[19:26:13] [Server thread/INFO]: [Surveyor] Loading data for the_bumblezone:the_bumblezone
-[19:26:13] [Server thread/INFO]: [Surveyor] Finished loading data for the_bumblezone:the_bumblezone
-[19:26:15] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_nether
-[19:26:15] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_nether
-[19:26:15] [Server thread/INFO]: [Surveyor] Loading data for graveyard:past
-[19:26:15] [Server thread/INFO]: [Surveyor] Finished loading data for graveyard:past
-[19:26:15] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_end
-[19:26:15] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_end
-[19:26:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:26:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:26:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:26:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:26:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:26:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:26:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:26:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:26:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:26:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:26:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:26:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:26:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:26:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:26:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:26:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:26:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:26:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:26:28] [Worker-Main-1/INFO]: Preparing spawn area: 15%
-[19:26:28] [Worker-Main-1/INFO]: Preparing spawn area: 54%
-[19:26:29] [Worker-Main-1/INFO]: Preparing spawn area: 93%
-[19:26:30] [Server thread/INFO]: Time elapsed: 11088 ms
-[19:26:30] [Server thread/INFO]: Done (23.438s)! For help, type "help"
-[19:26:30] [Server thread/INFO]: Loaded config for: connectivity.json
-[19:26:30] [Server thread/INFO]: Loaded config for: smoothchunk.json
-[19:26:30] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[19:26:30] [Server thread/INFO]: Loaded values for 27 compatible attributes.
-[19:26:30] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[19:26:30] [Server thread/INFO]: Loaded 27 values from config.
-[19:26:30] [Server thread/INFO]: Saving config file. 27 entries.
-[19:26:30] [Server thread/INFO]: Applying changes for 27 attributes.
-[19:26:30] [Server thread/INFO]: Auto report config loaded for mod: "the_bumblezone"
-[19:26:30] [Server thread/INFO]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.class_2926
-[19:27:51] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7472
-[19:27:51] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_2797
-[19:27:51] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7861
-[19:27:52] [Server thread/WARN]: Error loading class: net/minecraft/unmapped/C_mxrobsgg$C_wdomexrk (java.lang.ClassNotFoundException: net/minecraft/unmapped/C_mxrobsgg$C_wdomexrk)
-[19:27:52] [Server thread/WARN]: Error loading class: net/minecraft/server/network/ServerPlayerEntity$2 (java.lang.ClassNotFoundException: net/minecraft/server/network/ServerPlayerEntity$2)
-[19:27:53] [Server thread/INFO]: PFARN[/10.147.19.201:57309] logged in with entity id 386 at (84.16187729275475, 64.0, -39.48113509429824)
-[19:27:53] [Server thread/INFO]: Loading config from file...
-[19:27:53] [Server thread/INFO]: Syncing beansbackpacks data to "PFARN"
-[19:27:53] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[19:27:53] [Server thread/INFO]: PFARN joined the game
-[19:27:55] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
-[19:27:55] [Server thread/INFO]: [voicechat] Received secret request of PFARN (18)
-[19:27:55] [Server thread/INFO]: [voicechat] Sent secret to PFARN
-[19:28:05] [Server thread/INFO]: Villager class_1646['Nitwit'/114, l='ServerLevel[world]', x=140.70, y=64.00, z=110.45] died, message: 'Nitwit was slain by Zombie Villager'
-[19:28:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1f0757c6-76d7-352e-9046-eb9364fbeee0
-[19:28:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1f0757c6-76d7-352e-9046-eb9364fbeee0
-[19:28:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PFARN (1f0757c6-76d7-352e-9046-eb9364fbeee0) successfully connected to voice chat
-[19:29:44] [Server thread/INFO]: Villager class_1646['Nitwit'/232, l='ServerLevel[world]', x=159.20, y=67.18, z=62.49] died, message: 'Nitwit was slain by Zombie Villager'
-[19:31:55] [Server thread/INFO]: Vick_Pop778[/10.147.19.16:61829] logged in with entity id 914 at (58.5, 67.0, -0.5)
-[19:31:55] [Server thread/INFO]: Loading config from file...
-[19:31:55] [Server thread/INFO]: Syncing beansbackpacks data to "Vick_Pop778"
-[19:31:55] [Server thread/INFO]: Vick_Pop778 joined the game
-[19:31:55] [Server thread/INFO]: Vick_Pop778 has made the advancement [Ice and Fire]
-[19:31:56] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
-[19:31:56] [Server thread/INFO]: [voicechat] Received secret request of Vick_Pop778 (18)
-[19:31:56] [Server thread/INFO]: [voicechat] Sent secret to Vick_Pop778
-[19:31:57] [Server thread/INFO]: Villager class_1646['Shepherd'/179, l='ServerLevel[world]', x=187.50, y=68.00, z=104.30] died, message: 'Shepherd was slain by Zombie Villager'
-[19:31:58] [Server thread/INFO]: Villager class_1646['Villager'/177, l='ServerLevel[world]', x=187.44, y=68.00, z=104.30] died, message: 'Villager was slain by Zombie Villager'
-[19:32:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1bea8d6c-3de2-343b-b882-bf8e9956b889
-[19:32:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1bea8d6c-3de2-343b-b882-bf8e9956b889
-[19:32:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Vick_Pop778 (1bea8d6c-3de2-343b-b882-bf8e9956b889) successfully connected to voice chat
-[19:32:29] [Server thread/INFO]: Vick_Pop778 has made the advancement ['X' Marks the Spot]
-[19:32:31] [Server thread/INFO]: Vick_Pop778 has made the advancement [Acquire Hardware]
-[19:32:50] [Server thread/INFO]: <Vick_Pop778> NO
-[19:32:53] [Server thread/INFO]: <PFARN> kjakjsldhkajhdlkjahsdlkja
-[19:32:55] [Server thread/INFO]: <Vick_Pop778> francisco t odio
-[19:33:24] [Server thread/INFO]: PFARN lost connection: Disconnected
-[19:33:24] [Server thread/INFO]: PFARN left the game
-[19:33:24] [Server thread/INFO]: [voicechat] Disconnecting client PFARN
-[19:35:31] [Server thread/INFO]: Vick_Pop778 has made the advancement [Isn't It Iron Pick]
-[19:36:15] [Server thread/INFO]: Vick_Pop778 lost connection: Disconnected
-[19:36:15] [Server thread/INFO]: Vick_Pop778 left the game
-[19:36:15] [Server thread/INFO]: [voicechat] Disconnecting client Vick_Pop778
-[19:36:17] [Server thread/INFO]: Vick_Pop778[/10.147.19.16:62076] logged in with entity id 1766 at (79.19164765747179, 68.0, 12.010114162415663)
-[19:36:18] [Server thread/INFO]: Loading config from file...
-[19:36:18] [Server thread/INFO]: Syncing beansbackpacks data to "Vick_Pop778"
-[19:36:18] [Server thread/INFO]: Vick_Pop778 joined the game
-[19:36:18] [Server thread/INFO]: [voicechat] Received secret request of Vick_Pop778 (18)
-[19:36:18] [Server thread/INFO]: [voicechat] Sent secret to Vick_Pop778
-[19:36:18] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
-[19:36:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1bea8d6c-3de2-343b-b882-bf8e9956b889
-[19:36:23] [Server thread/INFO]: Villager class_1646['Toolsmith'/123, l='ServerLevel[world]', x=159.36, y=72.00, z=57.66] died, message: 'Toolsmith was slain by Zombie Villager'
-[19:36:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1bea8d6c-3de2-343b-b882-bf8e9956b889
-[19:36:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Vick_Pop778 (1bea8d6c-3de2-343b-b882-bf8e9956b889) successfully connected to voice chat
-[19:36:25] [Server thread/INFO]: Villager class_1646['Toolsmith'/83, l='ServerLevel[world]', x=100.61, y=85.00, z=36.13] died, message: 'Toolsmith was slain by Zombie Villager'
-[19:36:59] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[19:36:59] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[19:36:59] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[19:36:59] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[19:36:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[19:36:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[19:36:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[19:36:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[19:37:24] [Server thread/INFO]: Vick_Pop778 has made the advancement [Monster Hunter]
-[19:37:57] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[19:37:57] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[19:38:11] [Server thread/INFO]: Vick_Pop778 has made the advancement [Stone Age]
-[19:38:40] [Server thread/INFO]: PFARN[/10.147.19.201:57957] logged in with entity id 2978 at (50.456378619995014, 65.0, -25.616047941782455)
-[19:38:40] [Server thread/INFO]: Loading config from file...
-[19:38:40] [Server thread/INFO]: Syncing beansbackpacks data to "PFARN"
-[19:38:40] [Server thread/INFO]: PFARN joined the game
-[19:38:43] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
-[19:38:43] [Server thread/INFO]: [voicechat] Received secret request of PFARN (18)
-[19:38:43] [Server thread/INFO]: [voicechat] Sent secret to PFARN
-[19:38:55] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[19:38:55] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
-[19:39:00] [Server thread/INFO]: Nothing changed. The player already is an operator
-[19:39:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1f0757c6-76d7-352e-9046-eb9364fbeee0
-[19:39:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1f0757c6-76d7-352e-9046-eb9364fbeee0
-[19:39:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player PFARN (1f0757c6-76d7-352e-9046-eb9364fbeee0) successfully connected to voice chat
-[19:40:29] [Server thread/INFO]: Vick_Pop778 has made the advancement [Diamonds!]
-[19:40:32] [Server thread/INFO]: Vick_Pop778 has made the advancement [Ice Bucket Challenge]
-[19:43:29] [Server thread/INFO]: PFARN has made the advancement ['X' Marks the Spot]
-[19:44:41] [Server thread/INFO]: PFARN has made the advancement [Monster Hunter]
-[19:45:21] [Server thread/INFO]: Vick_Pop778 has made the advancement [Sweet Dreams]
-[19:45:23] [Server thread/INFO]: PFARN has made the advancement [Sweet Dreams]
-[19:46:49] [Server thread/INFO]: Vick_Pop778 has made the advancement [Barrel Booty]
-[19:46:49] [Server thread/INFO]: Vick_Pop778 has made the advancement [Disme A Dozen]
-[19:47:42] [Server thread/INFO]: PFARN was slain by Zombie Villager
-[19:47:43] [Server thread/INFO]: Vick_Pop778 was slain by Zombie Villager
-[19:47:44] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
-[19:47:44] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
-[19:48:03] [Server thread/INFO]: PFARN has made the advancement [Cobweb Entanglement]
-[19:48:03] [Server thread/INFO]: PFARN has made the advancement [All Along The Watchtower]
-[19:54:20] [Server thread/INFO]: PFARN has made the advancement [Isn't It Iron Pick]
-[19:54:27] [Server thread/INFO]: PFARN has made the advancement [Stone Age]
-[19:57:19] [Server thread/INFO]: PFARN has made the advancement [Getting an Upgrade]
-[20:01:42] [Server thread/INFO]: Vick_Pop778 was slain by Zombie Villager
-[20:01:44] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
-[20:10:03] [Server thread/INFO]: PFARN has made the advancement [Acquire Hardware]
-[20:13:13] [Server thread/INFO]: Villager class_1646['Armorer'/84, l='ServerLevel[world]', x=138.47, y=66.75, z=72.73] died, message: 'Armorer was shot by Pillager'
-[20:15:35] [Server thread/INFO]: Vick_Pop778 has made the advancement [All Along The Watchtower]
-[20:15:36] [Server thread/INFO]: Vick_Pop778 has made the advancement [Cobweb Entanglement]
-[20:15:37] [Server thread/INFO]: PFARN has made the advancement [Not Today, Thank You]
-[20:15:59] [Server thread/INFO]: PFARN was slain by Zombie Villager
-[20:16:01] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
-[20:16:13] [Server thread/INFO]: Vick_Pop778 was shot by Pillager
-[20:16:15] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
-[20:16:46] [Server thread/INFO]: Vick_Pop778 has made the advancement [Ol' Betsy]
-[20:16:46] [Server thread/INFO]: Vick_Pop778 has made the advancement [Take Aim]
-[20:21:39] [Server thread/INFO]: PFARN was shot by Pillager
-[20:21:43] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
-[20:22:35] [Server thread/INFO]: Vick_Pop778 has made the advancement [Who's the Pillager Now?]
-[20:27:15] [Server thread/INFO]: Vick_Pop778 has made the advancement [Suit Up]
-[20:29:00] [Server thread/INFO]: PFARN has made the advancement [Diamonds!]
-[20:32:06] [Server thread/INFO]: Shikyum[/10.147.19.46:60570] logged in with entity id 16088 at (67.5, 67.0, 0.5)
-[20:32:06] [Server thread/INFO]: Loading config from file...
-[20:32:07] [Server thread/INFO]: Syncing beansbackpacks data to "Shikyum"
-[20:32:07] [Server thread/INFO]: Shikyum joined the game
-[20:32:07] [Server thread/INFO]: Shikyum has made the advancement [Ice and Fire]
-[20:32:41] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Shikyum accepted server config.
-[20:32:53] [Server thread/INFO]: [voicechat] Received secret request of Shikyum (18)
-[20:32:53] [Server thread/INFO]: [voicechat] Sent secret to Shikyum
-[20:33:06] [Server thread/INFO]: Shikyum lost connection: Disconnected
-[20:33:06] [Server thread/INFO]: Shikyum left the game
-[20:33:06] [Server thread/INFO]: [voicechat] Disconnecting client Shikyum
-[20:36:06] [Server thread/INFO]: Shikyum[/10.147.19.46:61043] logged in with entity id 17181 at (67.5, 67.0, 0.5)
-[20:36:06] [Server thread/INFO]: Loading config from file...
-[20:36:07] [Server thread/INFO]: Syncing beansbackpacks data to "Shikyum"
-[20:36:07] [Server thread/INFO]: Shikyum joined the game
-[20:36:14] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Shikyum accepted server config.
-[20:36:14] [Server thread/INFO]: [voicechat] Received secret request of Shikyum (18)
-[20:36:14] [Server thread/INFO]: [voicechat] Sent secret to Shikyum
-[20:37:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1b90ed1b-962e-3777-bf16-d0ba97501e47
-[20:37:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1b90ed1b-962e-3777-bf16-d0ba97501e47
-[20:37:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Shikyum (1b90ed1b-962e-3777-bf16-d0ba97501e47) successfully connected to voice chat
-[20:37:45] [Server thread/INFO]: Vick_Pop778 has made the advancement [Close Quarters]
-[20:37:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1b90ed1b-962e-3777-bf16-d0ba97501e47 timed out
-[20:37:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Shikyum
-[20:37:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Shikyum
-[20:38:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1b90ed1b-962e-3777-bf16-d0ba97501e47
-[20:38:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1b90ed1b-962e-3777-bf16-d0ba97501e47
-[20:38:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Shikyum (1b90ed1b-962e-3777-bf16-d0ba97501e47) successfully connected to voice chat
-[20:38:36] [Server thread/INFO]: Shikyum lost connection: Disconnected
-[20:38:36] [Server thread/INFO]: Shikyum left the game
-[20:38:36] [Server thread/INFO]: [voicechat] Disconnecting client Shikyum
-[20:39:04] [Server thread/INFO]: Vick_Pop778 was killed by Witch using magic
-[20:39:05] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
-[20:41:40] [Server thread/INFO]: Vick_Pop778 has made the advancement [Getting an Upgrade]
-[20:43:06] [Server thread/INFO]: Vick_Pop778 has made the advancement [What a Deal!]
-[20:48:44] [Server thread/INFO]: PFARN fell off a ladder
-[20:48:48] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
-[20:50:38] [Server thread/INFO]: PFARN has made the advancement [Suit Up]
-[20:51:39] [Server thread/INFO]: Vick_Pop778 has made the advancement [The Lighthouse]
-[20:52:55] [Server thread/INFO]: Shikyum[/10.147.19.46:62978] logged in with entity id 22594 at (67.5, 67.0, 0.5)
-[20:52:55] [Server thread/INFO]: Loading config from file...
-[20:52:55] [Server thread/INFO]: Syncing beansbackpacks data to "Shikyum"
-[20:52:55] [Server thread/INFO]: Shikyum joined the game
-[20:53:08] [Server thread/INFO]: Vick_Pop778 fell from a high place
-[20:53:10] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
-[20:53:53] [Server thread/INFO]: Shikyum lost connection: Timed out
-[20:53:53] [Server thread/INFO]: Shikyum left the game
-[20:53:53] [Server thread/INFO]: [voicechat] Disconnecting client Shikyum
-[20:53:53] [Server thread/WARN]: handleDisconnection() called twice
-[20:55:21] [Server thread/INFO]: Shikyum[/10.147.19.46:63269] logged in with entity id 23206 at (67.5, 67.0, 0.5)
-[20:55:21] [Server thread/INFO]: Loading config from file...
-[20:55:21] [Server thread/INFO]: Syncing beansbackpacks data to "Shikyum"
-[20:55:21] [Server thread/INFO]: Shikyum joined the game
-[20:55:25] [Server thread/INFO]: [voicechat] Received secret request of Shikyum (18)
-[20:55:25] [Server thread/INFO]: [voicechat] Sent secret to Shikyum
-[20:55:25] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Shikyum accepted server config.
-[20:56:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1b90ed1b-962e-3777-bf16-d0ba97501e47
-[20:56:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1b90ed1b-962e-3777-bf16-d0ba97501e47
-[20:56:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Shikyum (1b90ed1b-962e-3777-bf16-d0ba97501e47) successfully connected to voice chat
-[20:57:53] [Server thread/INFO]: PFARN was blown up by Creeper
-[20:57:55] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
-[20:58:36] [Server thread/INFO]: Shikyum was slain by Spider
-[20:58:38] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Shikyum accepted server config.
-[20:59:17] [Server thread/INFO]: Shikyum was shot by Skeleton
-[20:59:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 1b90ed1b-962e-3777-bf16-d0ba97501e47 timed out
-[20:59:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Shikyum
-[20:59:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Shikyum
-[20:59:26] [Server thread/INFO]: Shikyum lost connection: Disconnected
-[20:59:26] [Server thread/INFO]: Shikyum left the game
-[20:59:26] [Server thread/INFO]: [voicechat] Disconnecting client Shikyum
-[21:00:33] [Server thread/INFO]: Vick_Pop778 has made the advancement [Corrupted]
-[21:00:33] [Server thread/INFO]: PFARN has made the advancement [Corrupted]
-[21:11:47] [Server thread/INFO]: Shikyum[/10.147.19.46:65193] logged in with entity id 26522 at (95.30000001192093, 65.0, 47.612082513895814)
-[21:11:47] [Server thread/INFO]: Loading config from file...
-[21:11:47] [Server thread/INFO]: Syncing beansbackpacks data to "Shikyum"
-[21:11:47] [Server thread/INFO]: Shikyum joined the game
-[21:12:01] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Shikyum accepted server config.
-[21:12:02] [Server thread/INFO]: [voicechat] Received secret request of Shikyum (18)
-[21:12:02] [Server thread/INFO]: [voicechat] Sent secret to Shikyum
-[21:12:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1b90ed1b-962e-3777-bf16-d0ba97501e47
-[21:12:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1b90ed1b-962e-3777-bf16-d0ba97501e47
-[21:12:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Shikyum (1b90ed1b-962e-3777-bf16-d0ba97501e47) successfully connected to voice chat
-[21:13:16] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Shikyum accepted server config.
-[21:13:24] [Worker-Main-11/WARN]: Empty height range: [0 absolute--16 absolute]
-[21:14:49] [Server thread/INFO]: Vick_Pop778 lost connection: Disconnected
-[21:14:49] [Server thread/INFO]: Vick_Pop778 left the game
-[21:14:49] [Server thread/INFO]: [voicechat] Disconnecting client Vick_Pop778
-[21:14:55] [Server thread/INFO]: Shikyum has made the advancement [Sweet Dreams]
-[21:15:53] [Server thread/INFO]: Shikyum has made the advancement [Stone Age]
-[21:16:09] [Server thread/INFO]: Shikyum has made the advancement ['X' Marks the Spot]
-[21:17:09] [Server thread/INFO]: Shikyum has made the advancement [All Along The Watchtower]
-[21:17:23] [Server thread/INFO]: Shikyum has made the advancement [Cobweb Entanglement]
-[21:19:41] [Server thread/INFO]: PFARN has made the advancement [Disme A Dozen]
-[21:20:42] [Server thread/INFO]: Shikyum has made the advancement [Acquire Hardware]
-[21:22:37] [Server thread/INFO]: Shikyum has made the advancement [Barrel Booty]
-[21:26:43] [Server thread/INFO]: Shikyum has made the advancement [Isn't It Iron Pick]
-[21:27:57] [Server thread/INFO]: Vick_Pop778[/10.147.19.16:55987] logged in with entity id 29750 at (147.0117397741247, 67.0, 75.19814519511905)
-[21:27:57] [Server thread/INFO]: Loading config from file...
-[21:27:57] [Server thread/INFO]: Syncing beansbackpacks data to "Vick_Pop778"
-[21:27:57] [Server thread/INFO]: Vick_Pop778 joined the game
-[21:27:58] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
-[21:27:58] [Server thread/INFO]: [voicechat] Received secret request of Vick_Pop778 (18)
-[21:27:58] [Server thread/INFO]: [voicechat] Sent secret to Vick_Pop778
-[21:28:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1bea8d6c-3de2-343b-b882-bf8e9956b889
-[21:28:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1bea8d6c-3de2-343b-b882-bf8e9956b889
-[21:28:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Vick_Pop778 (1bea8d6c-3de2-343b-b882-bf8e9956b889) successfully connected to voice chat
-[21:29:54] [Server thread/INFO]: PFARN has made the advancement [The Lighthouse]
-[21:32:28] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[21:32:32] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[21:32:32] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[21:32:32] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[21:35:33] [Server thread/INFO]: Shikyum has made the advancement [Disme A Dozen]
-[21:35:54] [Server thread/INFO]: Shikyum has made the advancement [Suit Up]
-[21:36:26] [Server thread/INFO]: Villager class_1646['Leatherworker'/178, l='ServerLevel[world]', x=187.47, y=64.00, z=103.56] died, message: 'Leatherworker hit the ground too hard'
-[21:38:07] [Server thread/INFO]: Vick_Pop778 has made the advancement [Who You Gonna Call?]
-[21:39:23] [Server thread/INFO]: PFARN has made the advancement [Who You Gonna Call?]
-[21:40:45] [Server thread/INFO]: Villager class_1646['Shepherd'/125, l='ServerLevel[world]', x=226.59, y=65.00, z=89.80] died, message: 'Shepherd was slain by Orc'
-[21:41:53] [Server thread/INFO]: PFARN has made the advancement [What a Deal!]
-[21:44:55] [Server thread/INFO]: PFARN was slain by Zombie Villager
-[21:44:57] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
-[21:46:41] [Server thread/INFO]: PFARN was slain by Zombie Villager
-[21:46:43] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
-[21:47:23] [Server thread/INFO]: PFARN was slain by Zombie Villager
-[21:47:26] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
-[21:57:16] [Server thread/INFO]: PFARN was slain by Zombie Villager
-[21:57:17] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
-[21:58:35] [Server thread/INFO]: minecraft:zombie_villager
-[22:01:54] [Worker-Main-11/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-970854486,-1334817278,-1213663493,436251341],type:"minecraft:entity",y_offset:0.36f}}]
-[22:04:25] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:25] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:25] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:25] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:25] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:25] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:25] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:25] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:26] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:26] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:32] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:32] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:32] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:32] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:33] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:33] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:33] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:33] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:33] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:33] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:33] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:33] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:33] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:33] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:33] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:33] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:33] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:33] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:40] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:40] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:40] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:40] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:40] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:40] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:40] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:40] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:40] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:40] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:40] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:40] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:40] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:40] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:42] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:42] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:42] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:42] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:42] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:42] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:42] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:42] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:42] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:48] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:48] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:49] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:49] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:53] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:53] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:53] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:53] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:53] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:53] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:53] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:53] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:53] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:53] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:53] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:53] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:53] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:53] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:56] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:56] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:56] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:56] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:56] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:56] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:56] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:56] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:57] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:57] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:04:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:04:59] [Worker-Main-11/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:05:00] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:05:00] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:05:00] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:05:00] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:05:00] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:05:00] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:05:00] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:05:00] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:05:01] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:05:01] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:05:07] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:05:07] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:05:07] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:05:07] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:05:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:swim_speed'
-[22:05:38] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:07:06] [Worker-Main-19/WARN]: Tried to access a block entity before it was created. class_2338{x=33, y=-1, z=1156}
-[22:14:15] [Server thread/INFO]: Shikyum has made the advancement [The Lighthouse]
-[22:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3716ms or 74 ticks behind
-[22:20:20] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=1169, y=-27, z=822}
-[22:20:27] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=1180, y=-31, z=806}
-[22:20:27] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=1180, y=-31, z=800}
-[22:21:13] [Server thread/INFO]: Vick_Pop778 has made the advancement [Super Creeps]
-[22:22:00] [Server thread/INFO]: PFARN has made the advancement [Super Creeps]
-[22:24:59] [Server thread/INFO]: PFARN has made the advancement [Ol' Betsy]
-[22:24:59] [Server thread/INFO]: PFARN has made the advancement [Take Aim]
-[22:25:57] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/54739, l='ServerLevel[world]', x=1031.78, y=115.01, z=1043.29] died: Dinnerbone was shot by Dinnerbone
-[22:26:16] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/54740, l='ServerLevel[world]', x=1023.63, y=115.01, z=1035.94] died: Dinnerbone was shot by PFARN
-[22:26:38] [Server thread/INFO]: PFARN was slain by Wither Skeleton
-[22:26:43] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
-[22:29:11] [Server thread/INFO]: Vick_Pop778 has made the advancement [A Moment in Time]
-[22:32:45] [Server thread/INFO]: PFARN was frozen by Ice Dragon
-[22:33:16] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
-[22:33:35] [Server thread/INFO]: Shikyum has made the advancement [Porky Illusions]
-[22:33:42] [Server thread/INFO]: Named entity class_1613['Illusioner'/61334, l='ServerLevel[world]', x=139.70, y=-400.00, z=79.49] died: Illusioner was killed
-[22:33:42] [Server thread/INFO]: Named entity class_1581['Illusioner'/61335, l='ServerLevel[world]', x=139.70, y=-400.00, z=79.49] died: Illusioner was killed
-[22:33:42] [Server thread/INFO]: Named entity class_1613['Illusioner'/61333, l='ServerLevel[world]', x=136.97, y=-400.00, z=80.06] died: Illusioner was killed
-[22:33:42] [Server thread/INFO]: Named entity class_1613['Illusioner'/61336, l='ServerLevel[world]', x=144.85, y=-400.00, z=78.30] died: Illusioner was killed
-[22:33:42] [Server thread/INFO]: Named entity class_1581['Illusioner'/61337, l='ServerLevel[world]', x=144.85, y=-400.00, z=78.30] died: Illusioner was killed
-[22:33:48] [Server thread/INFO]: Named entity class_1613['Illusioner'/61365, l='ServerLevel[world]', x=121.43, y=-400.00, z=88.99] died: Illusioner was killed
-[22:33:48] [Server thread/INFO]: Named entity class_1581['Illusioner'/61366, l='ServerLevel[world]', x=121.43, y=-400.00, z=88.99] died: Illusioner was killed
-[22:33:48] [Server thread/INFO]: Named entity class_1613['Illusioner'/61363, l='ServerLevel[world]', x=143.08, y=-400.00, z=71.56] died: Illusioner was killed
-[22:33:48] [Server thread/INFO]: Named entity class_1581['Illusioner'/61364, l='ServerLevel[world]', x=143.08, y=-400.00, z=71.56] died: Illusioner was killed
-[22:33:48] [Server thread/INFO]: Named entity class_1613['Illusioner'/61362, l='ServerLevel[world]', x=144.61, y=-400.00, z=71.50] died: Illusioner was killed
-[22:33:51] [Server thread/INFO]: Named entity class_1613['Illusioner'/61462, l='ServerLevel[world]', x=141.36, y=-400.00, z=71.42] died: Illusioner was killed
-[22:33:51] [Server thread/INFO]: Named entity class_1613['Illusioner'/61465, l='ServerLevel[world]', x=142.61, y=-400.00, z=73.50] died: Illusioner was killed
-[22:33:51] [Server thread/INFO]: Named entity class_1581['Illusioner'/61466, l='ServerLevel[world]', x=142.61, y=-400.00, z=73.50] died: Illusioner was killed
-[22:33:51] [Server thread/INFO]: Named entity class_1581['Illusioner'/61464, l='ServerLevel[world]', x=146.61, y=-400.00, z=71.50] died: Illusioner was killed
-[22:33:51] [Server thread/INFO]: Named entity class_1613['Illusioner'/61463, l='ServerLevel[world]', x=146.61, y=-400.00, z=71.50] died: Illusioner was killed
-[22:33:53] [Server thread/INFO]: Named entity class_1613['Illusioner'/61492, l='ServerLevel[world]', x=140.07, y=-400.00, z=80.70] died: Illusioner was killed
-[22:33:53] [Server thread/INFO]: Named entity class_1581['Illusioner'/61493, l='ServerLevel[world]', x=140.07, y=-400.00, z=80.70] died: Illusioner was killed
-[22:33:54] [Server thread/INFO]: Named entity class_1613['Illusioner'/61489, l='ServerLevel[world]', x=140.30, y=-400.00, z=73.49] died: Illusioner was killed
-[22:33:54] [Server thread/INFO]: Named entity class_1613['Illusioner'/61490, l='ServerLevel[world]', x=146.07, y=-400.00, z=74.30] died: Illusioner was killed
-[22:33:54] [Server thread/INFO]: Named entity class_1581['Illusioner'/61491, l='ServerLevel[world]', x=146.07, y=-400.00, z=74.30] died: Illusioner was killed
-[22:33:58] [Server thread/INFO]: Named entity class_1613['Illusioner'/61610, l='ServerLevel[world]', x=138.30, y=-400.00, z=71.49] died: Illusioner was killed
-[22:33:58] [Server thread/INFO]: Named entity class_1613['Illusioner'/61611, l='ServerLevel[world]', x=142.30, y=-400.00, z=71.49] died: Illusioner was killed
-[22:33:58] [Server thread/INFO]: Named entity class_1581['Illusioner'/61612, l='ServerLevel[world]', x=142.30, y=-400.00, z=71.49] died: Illusioner was killed
-[22:33:58] [Server thread/INFO]: Named entity class_1613['Illusioner'/61613, l='ServerLevel[world]', x=145.10, y=-400.00, z=71.64] died: Illusioner was killed
-[22:33:58] [Server thread/INFO]: Named entity class_1581['Illusioner'/61614, l='ServerLevel[world]', x=145.10, y=-400.00, z=71.64] died: Illusioner was killed
-[22:34:14] [Server thread/INFO]: Named entity class_1613['Illusioner'/61668, l='ServerLevel[world]', x=141.33, y=-400.00, z=71.50] died: Illusioner was killed
-[22:34:14] [Server thread/INFO]: Named entity class_1613['Illusioner'/61671, l='ServerLevel[world]', x=138.54, y=-400.00, z=79.90] died: Illusioner was killed
-[22:34:14] [Server thread/INFO]: Named entity class_1581['Illusioner'/61672, l='ServerLevel[world]', x=138.54, y=-400.00, z=79.90] died: Illusioner was killed
-[22:34:14] [Server thread/INFO]: Named entity class_1613['Illusioner'/61669, l='ServerLevel[world]', x=151.31, y=-400.00, z=76.46] died: Illusioner was killed
-[22:34:14] [Server thread/INFO]: Named entity class_1581['Illusioner'/61670, l='ServerLevel[world]', x=151.31, y=-400.00, z=76.46] died: Illusioner was killed
-[22:34:17] [Server thread/INFO]: Named entity class_1613['Illusioner'/61846, l='ServerLevel[world]', x=139.96, y=-400.00, z=71.51] died: Illusioner was killed
-[22:34:17] [Server thread/INFO]: Named entity class_1581['Illusioner'/61847, l='ServerLevel[world]', x=139.96, y=-400.00, z=71.51] died: Illusioner was killed
-[22:34:17] [Server thread/INFO]: Named entity class_1613['Illusioner'/61843, l='ServerLevel[world]', x=138.25, y=-400.00, z=71.62] died: Illusioner was killed
-[22:34:17] [Server thread/INFO]: Named entity class_1613['Illusioner'/61844, l='ServerLevel[world]', x=144.86, y=-400.00, z=76.10] died: Illusioner was killed
-[22:34:17] [Server thread/INFO]: Named entity class_1581['Illusioner'/61845, l='ServerLevel[world]', x=144.86, y=-400.00, z=76.10] died: Illusioner was killed
-[22:34:20] [Server thread/INFO]: Named entity class_1613['Illusioner'/61890, l='ServerLevel[world]', x=138.62, y=-400.00, z=73.62] died: Illusioner was killed
-[22:34:20] [Server thread/INFO]: Named entity class_1613['Illusioner'/61891, l='ServerLevel[world]', x=138.49, y=-400.00, z=79.06] died: Illusioner was killed
-[22:34:20] [Server thread/INFO]: Named entity class_1581['Illusioner'/61892, l='ServerLevel[world]', x=138.49, y=-400.00, z=79.06] died: Illusioner was killed
-[22:34:20] [Server thread/INFO]: Named entity class_1613['Illusioner'/61893, l='ServerLevel[world]', x=148.50, y=-400.00, z=70.01] died: Illusioner was killed
-[22:34:20] [Server thread/INFO]: Named entity class_1581['Illusioner'/61894, l='ServerLevel[world]', x=148.50, y=-400.00, z=70.01] died: Illusioner was killed
-[22:34:25] [Server thread/INFO]: Named entity class_1613['Illusioner'/62053, l='ServerLevel[world]', x=140.62, y=-400.00, z=71.62] died: Illusioner was killed
-[22:34:25] [Server thread/INFO]: Named entity class_1613['Illusioner'/62054, l='ServerLevel[world]', x=143.37, y=-400.00, z=71.68] died: Illusioner was killed
-[22:34:25] [Server thread/INFO]: Named entity class_1581['Illusioner'/62055, l='ServerLevel[world]', x=143.37, y=-400.00, z=71.68] died: Illusioner was killed
-[22:34:25] [Server thread/INFO]: Named entity class_1613['Illusioner'/62056, l='ServerLevel[world]', x=136.46, y=-400.00, z=77.46] died: Illusioner was killed
-[22:34:25] [Server thread/INFO]: Named entity class_1581['Illusioner'/62057, l='ServerLevel[world]', x=136.46, y=-400.00, z=77.46] died: Illusioner was killed
-[22:34:28] [Server thread/INFO]: Named entity class_1613['Illusioner'/62107, l='ServerLevel[world]', x=138.62, y=-400.00, z=77.62] died: Illusioner was killed
-[22:34:28] [Server thread/INFO]: Named entity class_1613['Illusioner'/62110, l='ServerLevel[world]', x=142.62, y=-400.00, z=73.62] died: Illusioner was killed
-[22:34:28] [Server thread/INFO]: Named entity class_1581['Illusioner'/62111, l='ServerLevel[world]', x=142.62, y=-400.00, z=73.62] died: Illusioner was killed
-[22:34:28] [Server thread/INFO]: Named entity class_1613['Illusioner'/62108, l='ServerLevel[world]', x=140.30, y=-400.00, z=71.70] died: Illusioner was killed
-[22:34:28] [Server thread/INFO]: Named entity class_1581['Illusioner'/62109, l='ServerLevel[world]', x=140.30, y=-400.00, z=71.70] died: Illusioner was killed
-[22:34:36] [Server thread/INFO]: Named entity class_1613['Illusioner'/62202, l='ServerLevel[world]', x=139.70, y=-400.00, z=79.49] died: Illusioner was killed
-[22:34:36] [Server thread/INFO]: Named entity class_1581['Illusioner'/62203, l='ServerLevel[world]', x=139.70, y=-400.00, z=79.49] died: Illusioner was killed
-[22:34:36] [Server thread/INFO]: Named entity class_1613['Illusioner'/62201, l='ServerLevel[world]', x=149.40, y=-400.00, z=76.67] died: Illusioner was killed
-[22:34:36] [Server thread/INFO]: Named entity class_1613['Illusioner'/62204, l='ServerLevel[world]', x=148.03, y=-400.00, z=77.22] died: Illusioner was killed
-[22:34:36] [Server thread/INFO]: Named entity class_1581['Illusioner'/62205, l='ServerLevel[world]', x=148.03, y=-400.00, z=77.22] died: Illusioner was killed
-[22:34:37] [Server thread/INFO]: Named entity class_1581['Illusioner'/62277, l='ServerLevel[world]', x=149.40, y=-400.00, z=78.67] died: Illusioner was killed
-[22:34:37] [Server thread/INFO]: Named entity class_1581['Illusioner'/62279, l='ServerLevel[world]', x=157.96, y=-400.00, z=78.48] died: Illusioner was killed
-[22:34:37] [Server thread/INFO]: Named entity class_1613['Illusioner'/62275, l='ServerLevel[world]', x=151.40, y=-400.00, z=76.67] died: Illusioner was killed
-[22:34:37] [Server thread/INFO]: Named entity class_1613['Illusioner'/62276, l='ServerLevel[world]', x=149.40, y=-400.00, z=78.67] died: Illusioner was killed
-[22:34:37] [Server thread/INFO]: Named entity class_1613['Illusioner'/62278, l='ServerLevel[world]', x=157.96, y=-400.00, z=78.48] died: Illusioner was killed
-[22:34:45] [Server thread/INFO]: Named entity class_1613['Illusioner'/62300, l='ServerLevel[world]', x=152.99, y=-400.00, z=79.41] died: Illusioner was killed
-[22:34:45] [Server thread/INFO]: Named entity class_1581['Illusioner'/62301, l='ServerLevel[world]', x=152.99, y=-400.00, z=79.41] died: Illusioner was killed
-[22:34:45] [Server thread/INFO]: Named entity class_1613['Illusioner'/62299, l='ServerLevel[world]', x=144.35, y=-400.00, z=79.30] died: Illusioner was killed
-[22:34:45] [Server thread/INFO]: Named entity class_1613['Illusioner'/62302, l='ServerLevel[world]', x=148.70, y=-400.00, z=79.18] died: Illusioner was killed
-[22:34:45] [Server thread/INFO]: Named entity class_1581['Illusioner'/62303, l='ServerLevel[world]', x=148.70, y=-400.00, z=79.18] died: Illusioner was killed
-[22:34:51] [Server thread/INFO]: Shikyum has made the advancement [Monster Hunter]
-[22:34:51] [Server thread/INFO]: Named entity class_1613['Illusioner'/62399, l='ServerLevel[world]', x=142.24, y=-400.00, z=77.70] died: Illusioner was killed whilst fighting Shikyum
-[22:34:51] [Server thread/INFO]: Named entity class_1581['Illusioner'/62400, l='ServerLevel[world]', x=142.24, y=-400.00, z=77.70] died: Illusioner was killed
-[22:34:56] [Server thread/INFO]: Named entity class_1613['Illusioner'/62397, l='ServerLevel[world]', x=140.35, y=-400.00, z=79.30] died: Illusioner was killed
-[22:34:56] [Server thread/INFO]: Named entity class_1581['Illusioner'/62398, l='ServerLevel[world]', x=140.35, y=-400.00, z=79.30] died: Illusioner was killed
-[22:34:56] [Server thread/INFO]: Named entity class_1613['Illusioner'/62396, l='ServerLevel[world]', x=141.05, y=-400.00, z=79.30] died: Illusioner was killed
-[22:34:59] [Server thread/INFO]: Named entity class_1613['Illusioner'/62457, l='ServerLevel[world]', x=139.05, y=-400.00, z=79.30] died: Illusioner was killed
-[22:34:59] [Server thread/INFO]: Named entity class_1613['Illusioner'/62454, l='ServerLevel[world]', x=139.70, y=-400.00, z=79.50] died: Illusioner was killed
-[22:34:59] [Server thread/INFO]: Named entity class_1581['Illusioner'/62458, l='ServerLevel[world]', x=139.05, y=-400.00, z=79.30] died: Illusioner was killed
-[22:34:59] [Server thread/INFO]: Named entity class_1613['Illusioner'/62455, l='ServerLevel[world]', x=144.99, y=-400.00, z=81.50] died: Illusioner was killed
-[22:34:59] [Server thread/INFO]: Named entity class_1581['Illusioner'/62456, l='ServerLevel[world]', x=144.99, y=-400.00, z=81.50] died: Illusioner was killed
-[22:35:06] [Server thread/INFO]: Named entity class_1613['Illusioner'/62530, l='ServerLevel[world]', x=137.70, y=-400.00, z=77.50] died: Illusioner was killed
-[22:35:06] [Server thread/INFO]: Named entity class_1613['Illusioner'/62533, l='ServerLevel[world]', x=138.82, y=-400.00, z=67.56] died: Illusioner was killed
-[22:35:06] [Server thread/INFO]: Named entity class_1613['Illusioner'/62531, l='ServerLevel[world]', x=142.29, y=-400.00, z=77.50] died: Illusioner was killed
-[22:35:06] [Server thread/INFO]: Named entity class_1581['Illusioner'/62532, l='ServerLevel[world]', x=142.29, y=-400.00, z=77.50] died: Illusioner was killed
-[22:35:06] [Server thread/INFO]: Named entity class_1581['Illusioner'/62534, l='ServerLevel[world]', x=138.82, y=-400.00, z=67.56] died: Illusioner was killed
-[22:35:07] [Server thread/INFO]: Named entity class_1613['Illusioner'/62554, l='ServerLevel[world]', x=138.61, y=-400.00, z=74.45] died: Illusioner was killed
-[22:35:07] [Server thread/INFO]: Named entity class_1581['Illusioner'/62556, l='ServerLevel[world]', x=131.70, y=-400.00, z=79.50] died: Illusioner was killed
-[22:35:07] [Server thread/INFO]: Named entity class_1613['Illusioner'/62557, l='ServerLevel[world]', x=143.43, y=-400.00, z=75.73] died: Illusioner was killed
-[22:35:07] [Server thread/INFO]: Named entity class_1581['Illusioner'/62558, l='ServerLevel[world]', x=143.43, y=-400.00, z=75.73] died: Illusioner was killed
-[22:35:07] [Server thread/INFO]: Named entity class_1613['Illusioner'/62555, l='ServerLevel[world]', x=131.70, y=-400.00, z=79.50] died: Illusioner was killed
-[22:35:11] [Server thread/INFO]: Named entity class_1613['Illusioner'/62571, l='ServerLevel[world]', x=137.38, y=-400.00, z=72.67] died: Illusioner was killed
-[22:35:11] [Server thread/INFO]: Named entity class_1613['Illusioner'/62572, l='ServerLevel[world]', x=138.52, y=-400.00, z=73.82] died: Illusioner was killed
-[22:35:11] [Server thread/INFO]: Named entity class_1581['Illusioner'/62573, l='ServerLevel[world]', x=138.52, y=-400.00, z=73.82] died: Illusioner was killed
-[22:35:11] [Server thread/INFO]: Named entity class_1613['Illusioner'/62574, l='ServerLevel[world]', x=141.63, y=-400.00, z=71.54] died: Illusioner was killed
-[22:35:11] [Server thread/INFO]: Named entity class_1581['Illusioner'/62575, l='ServerLevel[world]', x=141.63, y=-400.00, z=71.54] died: Illusioner was killed
-[22:35:13] [Server thread/INFO]: Named entity class_1613['Illusioner'/62607, l='ServerLevel[world]', x=137.99, y=-400.00, z=70.59] died: Illusioner was killed
-[22:35:13] [Server thread/INFO]: Named entity class_1613['Illusioner'/62608, l='ServerLevel[world]', x=138.69, y=-400.00, z=76.76] died: Illusioner was killed
-[22:35:13] [Server thread/INFO]: Named entity class_1581['Illusioner'/62609, l='ServerLevel[world]', x=138.69, y=-400.00, z=76.76] died: Illusioner was killed
-[22:35:13] [Server thread/INFO]: Named entity class_1613['Illusioner'/62610, l='ServerLevel[world]', x=134.61, y=-400.00, z=67.67] died: Illusioner was killed
-[22:35:13] [Server thread/INFO]: Named entity class_1581['Illusioner'/62611, l='ServerLevel[world]', x=134.61, y=-400.00, z=67.67] died: Illusioner was killed
-[22:35:18] [Server thread/INFO]: Named entity class_1613['Illusioner'/62655, l='ServerLevel[world]', x=139.57, y=-400.00, z=70.54] died: Illusioner was killed
-[22:35:18] [Server thread/INFO]: Named entity class_1613['Illusioner'/62656, l='ServerLevel[world]', x=141.14, y=-400.00, z=71.52] died: Illusioner was killed
-[22:35:18] [Server thread/INFO]: Named entity class_1581['Illusioner'/62657, l='ServerLevel[world]', x=141.14, y=-400.00, z=71.52] died: Illusioner was killed
-[22:35:18] [Server thread/INFO]: Named entity class_1613['Illusioner'/62658, l='ServerLevel[world]', x=143.87, y=-400.00, z=70.63] died: Illusioner was killed
-[22:35:18] [Server thread/INFO]: Named entity class_1581['Illusioner'/62659, l='ServerLevel[world]', x=143.87, y=-400.00, z=70.63] died: Illusioner was killed
-[22:35:20] [Server thread/INFO]: Named entity class_1613['Illusioner'/62681, l='ServerLevel[world]', x=139.09, y=-400.00, z=71.20] died: Illusioner was killed
-[22:35:20] [Server thread/INFO]: Named entity class_1613['Illusioner'/62682, l='ServerLevel[world]', x=140.42, y=-400.00, z=71.51] died: Illusioner was killed
-[22:35:20] [Server thread/INFO]: Named entity class_1581['Illusioner'/62683, l='ServerLevel[world]', x=140.42, y=-400.00, z=71.51] died: Illusioner was killed
-[22:35:20] [Server thread/INFO]: Named entity class_1613['Illusioner'/62684, l='ServerLevel[world]', x=144.04, y=-400.00, z=71.66] died: Illusioner was killed
-[22:35:20] [Server thread/INFO]: Named entity class_1581['Illusioner'/62685, l='ServerLevel[world]', x=144.04, y=-400.00, z=71.66] died: Illusioner was killed
-[22:35:26] [Server thread/INFO]: Named entity class_1613['Illusioner'/62721, l='ServerLevel[world]', x=141.09, y=-400.00, z=73.20] died: Illusioner was killed
-[22:35:26] [Server thread/INFO]: Named entity class_1613['Illusioner'/62724, l='ServerLevel[world]', x=146.61, y=-400.00, z=71.70] died: Illusioner was killed
-[22:35:26] [Server thread/INFO]: Named entity class_1581['Illusioner'/62725, l='ServerLevel[world]', x=146.61, y=-400.00, z=71.70] died: Illusioner was killed
-[22:35:26] [Server thread/INFO]: Named entity class_1613['Illusioner'/62722, l='ServerLevel[world]', x=144.69, y=-400.00, z=71.70] died: Illusioner was killed
-[22:35:26] [Server thread/INFO]: Named entity class_1581['Illusioner'/62723, l='ServerLevel[world]', x=144.69, y=-400.00, z=71.70] died: Illusioner was killed
-[22:35:29] [Server thread/INFO]: Named entity class_1613['Illusioner'/62781, l='ServerLevel[world]', x=140.47, y=-400.00, z=79.29] died: Illusioner was killed
-[22:35:29] [Server thread/INFO]: Named entity class_1613['Illusioner'/62784, l='ServerLevel[world]', x=139.39, y=-400.00, z=81.38] died: Illusioner was killed
-[22:35:29] [Server thread/INFO]: Named entity class_1581['Illusioner'/62785, l='ServerLevel[world]', x=139.39, y=-400.00, z=81.38] died: Illusioner was killed
-[22:35:29] [Server thread/INFO]: Named entity class_1613['Illusioner'/62782, l='ServerLevel[world]', x=146.54, y=-400.00, z=71.51] died: Illusioner was killed
-[22:35:29] [Server thread/INFO]: Named entity class_1581['Illusioner'/62783, l='ServerLevel[world]', x=146.54, y=-400.00, z=71.51] died: Illusioner was killed
-[22:35:37] [Server thread/INFO]: Named entity class_1613['Illusioner'/62818, l='ServerLevel[world]', x=138.40, y=-400.00, z=79.36] died: Illusioner was killed
-[22:35:37] [Server thread/INFO]: Named entity class_1581['Illusioner'/62819, l='ServerLevel[world]', x=138.40, y=-400.00, z=79.36] died: Illusioner was killed
-[22:35:37] [Server thread/INFO]: Named entity class_1613['Illusioner'/62820, l='ServerLevel[world]', x=138.86, y=-400.00, z=78.50] died: Illusioner was killed
-[22:35:37] [Server thread/INFO]: Named entity class_1581['Illusioner'/62821, l='ServerLevel[world]', x=138.86, y=-400.00, z=78.50] died: Illusioner was killed
-[22:35:37] [Server thread/INFO]: Named entity class_1613['Illusioner'/62817, l='ServerLevel[world]', x=139.05, y=-400.00, z=80.03] died: Illusioner was killed
-[22:35:46] [Server thread/INFO]: Named entity class_1613['Illusioner'/62848, l='ServerLevel[world]', x=143.02, y=-400.00, z=71.56] died: Illusioner was killed
-[22:35:46] [Server thread/INFO]: Named entity class_1581['Illusioner'/62849, l='ServerLevel[world]', x=143.02, y=-400.00, z=71.56] died: Illusioner was killed
-[22:35:46] [Server thread/INFO]: Named entity class_1613['Illusioner'/62847, l='ServerLevel[world]', x=139.70, y=-400.00, z=79.49] died: Illusioner was killed
-[22:35:46] [Server thread/INFO]: Named entity class_1613['Illusioner'/62850, l='ServerLevel[world]', x=141.05, y=-400.00, z=82.03] died: Illusioner was killed
-[22:35:46] [Server thread/INFO]: Named entity class_1581['Illusioner'/62851, l='ServerLevel[world]', x=141.05, y=-400.00, z=82.03] died: Illusioner was killed
-[22:35:47] [Server thread/INFO]: Named entity class_1613['Illusioner'/62870, l='ServerLevel[world]', x=137.70, y=-400.00, z=75.49] died: Illusioner was killed
-[22:35:47] [Server thread/INFO]: Named entity class_1613['Illusioner'/62872, l='ServerLevel[world]', x=138.51, y=-400.00, z=73.24] died: Illusioner was killed
-[22:35:47] [Server thread/INFO]: Named entity class_1581['Illusioner'/62871, l='ServerLevel[world]', x=137.70, y=-400.00, z=75.49] died: Illusioner was killed
-[22:35:47] [Server thread/INFO]: Named entity class_1581['Illusioner'/62873, l='ServerLevel[world]', x=138.51, y=-400.00, z=73.24] died: Illusioner was killed
-[22:35:47] [Server thread/INFO]: Named entity class_1613['Illusioner'/62869, l='ServerLevel[world]', x=144.48, y=-400.00, z=77.54] died: Illusioner was killed
-[22:35:51] [Server thread/INFO]: Named entity class_1613['Illusioner'/62885, l='ServerLevel[world]', x=148.70, y=-400.00, z=74.24] died: Illusioner was killed whilst fighting Shikyum
-[22:35:51] [Server thread/INFO]: Named entity class_1581['Illusioner'/62886, l='ServerLevel[world]', x=148.70, y=-400.00, z=74.24] died: Illusioner was killed
-[22:35:52] [Server thread/INFO]: Named entity class_1613['Illusioner'/62883, l='ServerLevel[world]', x=142.48, y=-400.00, z=79.54] died: Illusioner was killed
-[22:35:52] [Server thread/INFO]: Named entity class_1581['Illusioner'/62884, l='ServerLevel[world]', x=142.48, y=-400.00, z=79.54] died: Illusioner was killed
-[22:35:52] [Server thread/INFO]: Named entity class_1613['Illusioner'/62882, l='ServerLevel[world]', x=151.55, y=-400.00, z=79.30] died: Illusioner was killed
-[22:35:57] [Server thread/INFO]: Named entity class_1613['Illusioner'/62932, l='ServerLevel[world]', x=143.55, y=-400.00, z=75.30] died: Illusioner was killed
-[22:35:57] [Server thread/INFO]: Named entity class_1613['Illusioner'/62933, l='ServerLevel[world]', x=151.15, y=-400.00, z=81.11] died: Illusioner was killed
-[22:35:57] [Server thread/INFO]: Named entity class_1581['Illusioner'/62934, l='ServerLevel[world]', x=151.15, y=-400.00, z=81.11] died: Illusioner was killed
-[22:35:57] [Server thread/INFO]: Named entity class_1613['Illusioner'/62935, l='ServerLevel[world]', x=161.55, y=-400.00, z=73.30] died: Illusioner was killed
-[22:35:57] [Server thread/INFO]: Named entity class_1581['Illusioner'/62936, l='ServerLevel[world]', x=161.55, y=-400.00, z=73.30] died: Illusioner was killed
-[22:36:10] [Server thread/INFO]: Named entity class_1613['Illusioner'/62973, l='ServerLevel[world]', x=151.55, y=-400.00, z=71.30] died: Illusioner was killed
-[22:36:10] [Server thread/INFO]: Named entity class_1581['Illusioner'/62974, l='ServerLevel[world]', x=151.55, y=-400.00, z=71.30] died: Illusioner was killed
-[22:36:10] [Server thread/INFO]: Named entity class_1613['Illusioner'/62971, l='ServerLevel[world]', x=154.11, y=-400.00, z=75.47] died: Illusioner was killed
-[22:36:10] [Server thread/INFO]: Named entity class_1581['Illusioner'/62972, l='ServerLevel[world]', x=154.11, y=-400.00, z=75.47] died: Illusioner was killed
-[22:36:10] [Server thread/INFO]: Named entity class_1613['Illusioner'/62970, l='ServerLevel[world]', x=145.15, y=-400.00, z=71.13] died: Illusioner was killed
-[22:36:15] [Server thread/INFO]: Shikyum was slain by Illusioner
-[22:36:18] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Shikyum accepted server config.
-[22:38:37] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:38:37] [Worker-Main-19/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[22:45:56] [Server thread/INFO]: Vick_Pop778 has made the advancement [Stay dead]
-[22:46:18] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-792, y=-29, z=417}
-[22:49:20] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-418, y=-24, z=735}
-[22:52:37] [Worker-Main-19/ERROR]: Detected setBlock in a far chunk [-51, 47], pos: class_2339{x=-816, y=8, z=757}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
-[22:52:37] [Worker-Main-19/ERROR]: Detected setBlock in a far chunk [-51, 47], pos: class_2339{x=-816, y=9, z=757}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
-[22:52:37] [Worker-Main-19/ERROR]: Detected setBlock in a far chunk [-51, 47], pos: class_2339{x=-816, y=8, z=759}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
-[22:52:37] [Worker-Main-19/ERROR]: Detected setBlock in a far chunk [-51, 47], pos: class_2339{x=-816, y=9, z=759}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
-[22:53:36] [Server thread/INFO]: PFARN drowned whilst trying to escape Ice Dragon
-[22:53:41] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of PFARN accepted server config.
-[22:53:42] [Server thread/INFO]: Vick_Pop778 suffocated in a wall
-[22:53:42] [Server thread/INFO]: Created new backpack backup file for Vick_Pop778 with unique ID travelersbackpack.standard_18.01.2025-22.53.42.dat
-[22:53:42] [Server thread/INFO]: Your backpack has been placed at X: -770 Y: 48 Z: 724
-[22:53:44] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
-[22:57:07] [Server thread/INFO]: Vick_Pop778 fell from a high place
-[22:57:09] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
-[22:57:56] [Server thread/INFO]: Vick_Pop778 drowned
-[22:57:58] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Vick_Pop778 accepted server config.
-[22:58:01] [Server thread/INFO]: Vick_Pop778 lost connection: Disconnected
-[22:58:01] [Server thread/INFO]: Vick_Pop778 left the game
-[22:58:01] [Server thread/INFO]: [voicechat] Disconnecting client Vick_Pop778
-[22:59:15] [Server thread/INFO]: Shikyum lost connection: Disconnected
-[22:59:15] [Server thread/INFO]: Shikyum left the game
-[22:59:15] [Server thread/INFO]: [voicechat] Disconnecting client Shikyum
-[23:00:42] [Server thread/INFO]: PFARN lost connection: Disconnected
-[23:00:42] [Server thread/INFO]: PFARN left the game
-[23:00:42] [Server thread/INFO]: [voicechat] Disconnecting client PFARN
+[03:00:58] [main/ERROR]: Parsing error loading custom advancement beansbackpacks:info/thank_you: Unknown required criterion 'has_upgraded'
+[03:00:58] [main/INFO]: Loaded 3501 advancements
+[03:00:58] [main/INFO]: Loading exposure lenses:
+[03:00:58] [main/INFO]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
+[03:00:58] [main/INFO]: Wrong common config version 1 for mod Ice And Fire! Automatically use version 2 and backup old one.
+[03:00:58] [main/INFO]: Successfully reload 2 server config(s).
+[03:00:58] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 48 translation keys
+[03:00:58] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: 1_splatus:spellbound/hot
+[03:01:00] [main/INFO]: Applied 12 data villager trades
+[03:01:00] [main/INFO]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.class_3324
+[03:01:00] [main/INFO]: Applied 3406 biome modifications to 188 of 188 new biomes in 82.60 ms
+[03:01:00] [Server thread/INFO]: Loading server config for easyanvils
+[03:01:00] [Thread-3/INFO]: Reloading server config for easyanvils
+[03:01:00] [Server thread/INFO]: Loading server config for easymagic
+[03:01:00] [Thread-3/INFO]: Reloading server config for easyanvils
+[03:01:00] [Thread-3/INFO]: Reloading server config for easymagic
+[03:01:00] [Thread-3/INFO]: Reloading server config for easymagic
+[03:01:00] [Server thread/INFO]: Loading server config for hangglider
+[03:01:00] [Thread-3/INFO]: Reloading server config for hangglider
+[03:01:00] [Thread-3/INFO]: Reloading server config for hangglider
+[03:01:00] [Server thread/INFO]: Loading server config for puzzlesapi
+[03:01:00] [Server thread/INFO]: Injecting Carpenter Village Houses
+[03:01:00] [Server thread/INFO]: Starting background profiler...
+[03:01:01] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[03:01:01] [Server thread/INFO]: Loading properties
+[03:01:01] [Server thread/INFO]: Default game type: SURVIVAL
+[03:01:01] [Server thread/INFO]: Generating keypair
+[03:01:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:01:01] [Server thread/INFO]: Using epoll channel type
+[03:01:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:01:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:01:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:01:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:01:01] [Server thread/INFO]: Preparing level "world"
+[03:01:01] [Server thread/INFO]: [Surveyor] Loading data for minecraft:overworld
+[03:01:02] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:overworld
+[03:01:03] [Server thread/INFO]: [Surveyor] Loading data for graveyard:past
+[03:01:03] [Server thread/INFO]: [Surveyor] Finished loading data for graveyard:past
+[03:01:07] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_end
+[03:01:07] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_end
+[03:01:10] [Server thread/INFO]: [Surveyor] Loading data for iceandfire:dread_land
+[03:01:10] [Server thread/INFO]: [Surveyor] Finished loading data for iceandfire:dread_land
+[03:01:10] [Server thread/INFO]: [Surveyor] Loading data for the_bumblezone:the_bumblezone
+[03:01:10] [Server thread/INFO]: [Surveyor] Finished loading data for the_bumblezone:the_bumblezone
+[03:01:12] [Server thread/INFO]: [Surveyor] Loading data for deeperdarker:otherside
+[03:01:12] [Server thread/INFO]: [Surveyor] Finished loading data for deeperdarker:otherside
+[03:01:12] [Server thread/INFO]: [Surveyor] Loading data for minecraft:the_nether
+[03:01:12] [Server thread/INFO]: [Surveyor] Finished loading data for minecraft:the_nether
+[03:01:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:01:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:01:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:01:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:01:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:01:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:01:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:01:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:01:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:01:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:01:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:01:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:01:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:01:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:01:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:01:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:01:20] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[03:01:20] [Worker-Main-1/INFO]: Preparing spawn area: 54%
+[03:01:21] [Worker-Main-2/INFO]: Preparing spawn area: 92%
+[03:01:22] [Server thread/INFO]: Time elapsed: 9803 ms
+[03:01:22] [Server thread/INFO]: Done (20.834s)! For help, type "help"
+[03:01:22] [Server thread/INFO]: Loaded config for: connectivity.json
+[03:01:22] [Server thread/INFO]: Loaded config for: smoothchunk.json
+[03:01:22] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[03:01:22] [Server thread/INFO]: Loaded values for 27 compatible attributes.
+[03:01:22] [Server thread/INFO]: Loaded 27 values from config.
+[03:01:22] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[03:01:22] [Server thread/INFO]: Saving config file. 27 entries.
+[03:01:22] [Server thread/INFO]: Applying changes for 27 attributes.
+[03:01:22] [Server thread/INFO]: Auto report config loaded for mod: "the_bumblezone"
+[03:01:22] [Server thread/INFO]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.class_2926
+[03:09:32] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7472
+[03:09:32] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_2797
+[03:09:32] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7861
